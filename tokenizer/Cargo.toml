@@ -1,0 +1,8 @@
+[package]
+name = "tokenizer"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+anyhow = "1.0.100"
+tokenizers = "0.22.2"

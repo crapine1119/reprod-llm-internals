@@ -1,0 +1,552 @@
+위키백과 페이지 "https://en.wikipedia.org/wiki/Raymond_III,_Count_of_Tripoli"의 300단어 이상의 요약<mecab>을 작성<mecab>하<mecab>세요<mecab>. 쉼표<mecab>를 사용<mecab>하<mecab>지 말<mecab>고 마크다운 형식<mecab>으로 제목<mecab>이 있<mecab>는 최소 3개의 섹션<mecab>을 강조 표시<mecab>하<mecab>세요 예<mecab>를 들<mecab>어 *강조<mecab>된 섹션 부분 1*, *강조<mecab>된 섹션 부분 2*, *강조<mecab>된 섹션 부분 3*.
+나<mecab>는 일본<mecab>으로 여행<mecab>을 계획<mecab>하<mecab>고 있<mecab>으며 내 여행<mecab>을 위해 셰익스피어 스타일의 여행 일정<mecab>을 작성<mecab>해 주기<mecab>를 원한다<mecab>. 너<mecab>는 너<mecab>의 응답<mecab>에 어떤 쉼표<mecab>도 사용<mecab>할 수 없<mecab>다<mecab>.
+신입 고등학교 졸업<mecab>생<mecab>을 위한 이력서<mecab>를 작성<mecab>하<mecab>세요<mecab>. 첫 직장<mecab>을 구하<mecab>고 있<mecab>는 신입 고등학교 졸업<mecab>생<mecab>을 위한 것입니다<mecab>. [주소], [이름]<mecab>과 같<mecab>은 사각형 괄호<mecab>로 표시<mecab>된 최소 12개의 자리 표시<mecab>자<mecab>를 포함<mecab>해야 합니다<mecab>.
+두 사람<mecab>이 대화<mecab>하<mecab>는 장면<mecab>을 작성<mecab>하<mecab>세요<mecab>. 한 사람<mecab>은 볼 가운<mecab>을 입<mecab>고 있<mecab>고, 다른 사람<mecab>은 운동복<mecab>을 입<mecab>고 있<mecab>습니다<mecab>. 두 사람<mecab>은 야간 행사<mecab>에 가<mecab>고 있<mecab>습니다<mecab>. 당신<mecab>의 대답<mecab>은 마크다운 형식<mecab>으로 정확히 3개의 글머리 기호<mecab>를 포함<mecab>해야 합니다 (각 글머리 기호<mecab>는 * 로 표시<mecab>하<mecab>세요):
+* 이것<mecab>은 첫 번<mecab>째 포인트입니다<mecab>.
+* 이것<mecab>은 두 번<mecab>째 포인트입니다<mecab>.
+해먹<mecab>에서 자<mecab>는 것<mecab>의 이점<mecab>에 대해 400단어 이상의 블로그 포스트<mecab>를 작성<mecab>하<mecab>세요<mecab>.
+새로운 제품 광고<mecab>를 만드<mecab>는 데 도와줄 수 있<mecab>나요<mecab>? 아기<mecab>들<mecab>이 더 편안<mecab>하<mecab>게 사용<mecab>할 수 있<mecab>도록 설계<mecab>된 기저귀입니다<mecab>. 전체 출력<mecab>은 JSON 형식<mecab>으로 원<mecab>합니다<mecab>.
+어느 날 한 남자<mecab>가 깨어나 자신<mecab>이 비디오 게임 안<mecab>에 있<mecab>다는 것<mecab>을 깨닫<mecab>는 이야기<mecab>를 정확히 2단락<mecab>으로 작성<mecab>하<mecab>세요<mecab>. 단락<mecab>은 마크다운 구분<mecab>자 ***<mecab>로 구분<mecab>하<mecab>세요<mecab>.***
+300단어 이하로 일본 여행<mecab>에 대한 짧<mecab>은 블로그 포스트<mecab>를 작성<mecab>하<mecab>세요<mecab>.
+유명<mecab>한 엄마 이름 5개<mecab>를 JSON 형식<mecab>으로 제공<mecab>해 주<mecab>세요<mecab>. 흥미<mecab>롭<mecab>거나 이상한 톤<mecab>을 사용<mecab>해 주<mecab>세요<mecab>. 전체 출력<mecab>은 JSON 블록<mecab>만 포함<mecab>되<mecab>어야 하<mecab>며, 그 외<mecab>에<mecab>는 아무것<mecab>도 포함<mecab>하<mecab>지 마세요<mecab>.
+사람<mecab>들<mecab>이 신<mecab>을 부르<mecab>는 이름<mecab>은 무엇인가요<mecab>? 정확히 두 가지 다른 응답<mecab>을 주<mecab>세요<mecab>. 응답<mecab>은 6개의 별표 기호<mecab>로 구분<mecab>하<mecab>세요: ******.
+로켓<mecab>에 대한 두 가지 농담<mecab>을 작성<mecab>하<mecab>세요<mecab>. 응답<mecab>에 쉼표<mecab>를 포함<mecab>하<mecab>지 마세요<mecab>. 두 농담<mecab>은 6개의 별표 기호<mecab>로 구분<mecab>하<mecab>세요: ******.
+햄버거<mecab>는 샌드위치인가요<mecab>? 오직 칸나다어만 사용<mecab>하<mecab>여 응답<mecab>해 주<mecab>세요, 다른 언어<mecab>는 허용<mecab>되<mecab>지 않<mecab>습니다<mecab>.
+수업<mecab>이 그리운 것<mecab>에 대한 시<mecab>를 써<mecab>주<mecab>세요<mecab>. 시<mecab>는 "섹션 X"<mecab>으로 표시<mecab>된 4개의 섹션<mecab>이 있<mecab>어야 합니다<mecab>. 시<mecab>를 다음의 정확<mecab>한 문구<mecab>로 마무리<mecab>하<mecab>세요: "제<mecab>가 놓친 수업<mecab>에 대한 돈<mecab>을 돌려받<mecab>을 수 있<mecab>을까요<mecab>?"
+주어진 문장 이 돈 중 얼마나 많<mecab>은 부분<mecab>이 실제로 아이<mecab>들<mecab>에게 사용<mecab>되<mecab>고 있<mecab>는지<mecab>는 불<mecab>확실<mecab>하<mecab>다<mecab>에서 감정<mecab>은 긍정<mecab>적입니까, 부정<mecab>적입니까<mecab>? 당신<mecab>의 응답의 마지막 문장<mecab>은 "제<mecab>가 도와드릴 수 있<mecab>는 다른 것<mecab>이 있<mecab>나요<mecab>?"여야 합니다<mecab>.
+전문 광대 필 라킨<mecab>을 위한 4개 섹션의 이력서<mecab>를 작성<mecab>하<mecab>세요<mecab>. 각 섹션<mecab>은 섹션 X<mecab>로 명시<mecab>되<mecab>어야 합니다<mecab>.
+초자연<mecab>적 능력<mecab>을 갖<mecab>는 것<mecab>의 장점<mecab>과 단점<mecab>은 무엇인가요<mecab>? 짧<mecab>게 작성<mecab>하<mecab>세요<mecab>. 전체 출력<mecab>을 JSON 형식<mecab>으로 감싸<mecab>세요<mecab>. 마크다운 틱<mecab>을 사용<mecab>할 수 있<mecab>습니다<mecab>. ```
+소프트웨어 엔지니어의 기술 능력<mecab>을 평가<mecab>하<mecab>는 기준<mecab>을 작성<mecab>하<mecab>되, 오직 펀자비어<mecab>만 사용<mecab>하<mecab>고 다른 언어<mecab>는 허용<mecab>되<mecab>지 않<mecab>습니다<mecab>.
+아이<mecab>들<mecab>을 위한 수수께끼<mecab>를 써라 하<mecab>지만 쉼표<mecab>는 사용<mecab>하<mecab>지 마라<mecab>.
+사람<mecab>들<mecab>이 벌레<mecab>에 대해 역겨움<mecab>을 느끼<mecab>는 이유<mecab>와 죽<mecab>은 소<mecab>를 먹<mecab>는 것<mecab>에 대해서<mecab>는 그렇<mecab>지 않<mecab>은 이유<mecab>를 설명<mecab>하<mecab>세요<mecab>. 정확히 두 가지 다른 응답<mecab>을 6개의 별표 기호 ******<mecab>로 구분<mecab>하<mecab>여 제시<mecab>하<mecab>세요<mecab>. 당신<mecab>의 답변<mecab>은 <<제목>> 형식<mecab>으로 감싸진 제목<mecab>을 포함<mecab>해야 합니다<mecab>.
+중국<mecab>의 당나라<mecab>가 권력<mecab>을 잡<mecab>았<mecab>을 때 무슨 일<mecab>이 일어났<mecab>습니까<mecab>? 전쟁<mecab>이<mecab>라는 단어<mecab>를 최소한 8번 사용<mecab>하<mecab>고, 평화라는 단어<mecab>를 최소한 10번 사용<mecab>해야 합니다<mecab>.
+19세기 말 오스트리아 제국<mecab>에 대해 크로아티아<mecab>와 세르비아 민족<mecab>은 어떤 감정<mecab>을 가지<mecab>고 있<mecab>었<mecab>는가<mecab>? 전체 응답<mecab>을 큰따옴표<mecab>로 감싸<mecab>고 최소 800단어<mecab>를 사용<mecab>해야 한다<mecab>.
+새로운 제품, 소셜 미디어 계정<mecab>에 연결<mecab>되<mecab>어 사진<mecab>을 표시<mecab>하<mecab>는 디지털 포토 프레임<mecab>을 위한 광고 문구<mecab>를 작성<mecab>하<mecab>세요<mecab>. 최대 150단어<mecab>로 응답<mecab>하<mecab>세요<mecab>.
+인터넷의 역사<mecab>와 그것<mecab>이 우리<mecab>의 삶<mecab>에 미친 영향<mecab>에 대한 블로그 포스트<mecab>를 작성<mecab>하<mecab>세요<mecab>. 블로그 포스트<mecab>는 십대<mecab>들<mecab>을 대상<mecab>으로 하<mecab>며, 전체 응답<mecab>을 큰따옴표<mecab>로 감싸<mecab>세요<mecab>.
+2000년 세계<mecab>에서 가장 높<mecab>은 마천루<mecab>는 지면<mecab>에서 몇 미터 높이였<mecab>나요<mecab>? 답변<mecab>에<mecab>는 주요 사항<mecab>만 포함<mecab>해 주<mecab>세요<mecab>. 답변<mecab>을 "도와드릴 수 있<mecab>는 다른 것<mecab>이 있<mecab>나요<mecab>?"라는 정확<mecab>한 문구<mecab>로 마무리<mecab>해 주<mecab>세요<mecab>. "마천<mecab>루"라는 단어<mecab>를 최소 8번 언급<mecab>해 주<mecab>세요<mecab>.
+편안<mecab>한 안락의자 신제품 라인<mecab>을 위한 광고<mecab>를 작성<mecab>하<mecab>세요<mecab>. 이 의자<mecab>는 어떤 인테리어 디자이너의 검토<mecab>에<mecab>도 견딜 수 있<mecab>도록 설계<mecab>되<mecab>었<mecab>습니다<mecab>. 정확히 3개의 단락<mecab>이 있<mecab>어야 하<mecab>며, 마크다운 구분<mecab>자인 ***<mecab>으로 구분<mecab>되<mecab>어야 합니다<mecab>.
+10대<mecab>들<mecab>을 위한 재미있<mecab>는 포스트<mecab>를 작성<mecab>하<mecab>세요<mecab>. 아르헨티나 음식<mecab>을 제공<mecab>하<mecab>는 Buena Onda라는 레스토랑<mecab>에 대해 이야기<mecab>하<mecab>세요<mecab>. 응답의 최소 세 섹션<mecab>을 *강조<mecab>된 섹션*<mecab>과 같<mecab>은 마크다운 형식<mecab>으로 강조<mecab>하<mecab>세요<mecab>. 포스트<mecab>에 "아르헨티나"라는 단어<mecab>를 언급<mecab>하<mecab>세요<mecab>.
+스타포드<mecab>를 위한 별명<mecab>을 지<mecab>어 줄 수 있<mecab>나요<mecab>? JSON 형식<mecab>을 사용<mecab>하<mecab>고 응답<mecab>에 "별명"<mecab>이<mecab>라는 단어<mecab>를 사용<mecab>하<mecab>지 마세요<mecab>. JSON 블록 외부<mecab>에 아무것<mecab>도 추가<mecab>하<mecab>지 마세요<mecab>.
+제품 설명<mecab>을 시의 형태<mecab>로 작성<mecab>해 주<mecab>시<mecab>고, P.P.S<mecab>로 시작<mecab>하<mecab>는 후기<mecab>로 끝내 주<mecab>세요<mecab>.
+그 남자<mecab>는 차<mecab>를 훔친 혐의<mecab>로 체포<mecab>되<mecab>었<mecab>다<mecab>. 그<mecab>는 나중<mecab>에 보석<mecab>으로 석방<mecab>되<mecab>었<mecab>다<mecab>. 화가 나<mecab>서 랩 스타일<mecab>로 확장<mecab>하<mecab>라, 그리고 정확히 4개의 섹션<mecab>으로 나누<mecab>어라<mecab>. 섹션<mecab>은 마크다운 구분 기호<mecab>로 구분<mecab>하<mecab>라: ***
+유칼립투스 나무의 아름다움<mecab>과 그 다양<mecab>한 용도<mecab>에 대해 최소 350단어<mecab>로 시<mecab>를 써라<mecab>.
+나<mecab>는 10센트 동전<mecab>이 있<mecab>다<mecab>. 이 10센트 동전<mecab>으로 무엇<mecab>을 할 수 있<mecab>을까<mecab>? 미국 대통령의 스타일<mecab>로 조언<mecab>을 해<mecab>주<mecab>고, 최소 600단어<mecab>가 되<mecab>도록 해줘<mecab>.
+마라티어<mecab>만 사용<mecab>하<mecab>여 출근<mecab>하<mecab>는 것<mecab>에 대한 하이쿠<mecab>를 작성<mecab>하<mecab>세요<mecab>. 다른 언어<mecab>는 허용<mecab>되<mecab>지 않<mecab>습니다<mecab>.
+다음 텍스트<mecab>에 대해 자세히 설명<mecab>해 주<mecab>시<mecab>겠<mecab>습니까: 축 하중 증가<mecab>가 도로 손상<mecab>을 증가<mecab>시켰<mecab>습니다<mecab>? 귀하<mecab>의 응답<mecab>은 <<제목>><mecab>이<mecab>라는 이중 각괄호<mecab>로 감싸진 제목<mecab>을 포함<mecab>해야 합니다<mecab>. 5문장 미만<mecab>으로 작성<mecab>하<mecab>십시오<mecab>.
+음식 저장<mecab>에 알루미늄 캔<mecab>이 어떻<mecab>게 사용<mecab>되<mecab>는지<mecab>에 대한 에세이<mecab>를 작성<mecab>하<mecab>세요<mecab>. 폐기물, 재료 및 식사라는 키워드<mecab>를 포함<mecab>하<mecab>는 것<mecab>을 잊<mecab>지 마세요<mecab>. 응답<mecab>에<mecab>는 30문장<mecab>을 넘<mecab>게 포함<mecab>하<mecab>세요<mecab>.
+스트레스 관리<mecab>에 대한 일기 항목의 예<mecab>를 줄 수 있<mecab>나요<mecab>? 예<mecab>를 어떻<mecab>게 생각<mecab>해냈<mecab>는지 말<mecab>해 주<mecab>세요<mecab>. 당신<mecab>의 전체 응답<mecab>은 6문장 이하로 구성<mecab>되<mecab>어야 합니다<mecab>.
+아래의 텍스트<mecab>를 출발점<mecab>으로 삼<mecab>아 완전<mecab>한 기사<mecab>를 작성<mecab>하<mecab>세요: "당신<mecab>은 양육 계획<mecab>을 세우<mecab>기 위해 도우미<mecab>와 만날 필요<mecab>가 있<mecab>을 수 있<mecab>습니다<mecab>. 첫 번<mecab>째<mecab>는 매일 양육<mecab>을 위해 얼마나 많<mecab>은 시간<mecab>을 가질 수 있<mecab>는지 추정<mecab>하<mecab>는 것<mecab>이<mecab>며, 그것<mecab>이 충분<mecab>한지 여부입니다<mecab>...."
+다음 키워드<mecab>를 사용<mecab>하<mecab>지 마세요: 수면, 요리, 먹이<mecab>기
+'일정'<mecab>이<mecab>라는 키워드<mecab>를 5회 이상 언급<mecab>하<mecab>세요<mecab>.
+13개 식민지<mecab>와 북미의 다른 영국 식민지 사이의 차이점<mecab>은 무엇인가요<mecab>? 귀하<mecab>의 답변<mecab>은 다음 형식<mecab>을 사용<mecab>하<mecab>여 정확히 6개의 글머리<mecab>를 포함<mecab>해야 합니다:
+* 글머리 하나<mecab>.
+* 글머리 둘<mecab>.
+...
+* 글머리 여섯<mecab>.
+NYC 프로스펙트 파크의 역사<mecab>는 무엇인가요<mecab>? 전체 답변<mecab>을 JSON 형식<mecab>으로 감싸<mecab>주<mecab>세요<mecab>. 마크다운 틱<mecab>을 사용<mecab>할 수 있<mecab>습니다<mecab>. 예<mecab>를 들<mecab>어:
+```JSON
+{
+...
+}
+```
+새로운 남자 아기<mecab>를 위한 가능<mecab>한 이름 10개<mecab>를 정확히 나열<mecab>하<mecab>세요<mecab>. 그런 다음 응답의 끝<mecab>에 P.P.S<mecab>로 시작<mecab>하<mecab>는 후기<mecab>를 추가<mecab>하<mecab>세요<mecab>. 이름<mecab>을 다음<mecab>과 같<mecab>은 글머리 기호<mecab>로 넣<mecab>으세요:
+* 이것<mecab>은 예시 글머리 기호입니다<mecab>.
+예멘 커피의 역사<mecab>에 대한 논문의 개요<mecab>를 작성<mecab>하<mecab>십시오<mecab>. 개요<mecab>에<mecab>는 논문의 주요 내용<mecab>이 포함<mecab>되<mecab>어야 하<mecab>며, 최소 15개의 섹션<mecab>이 *강조<mecab>된 섹션*<mecab>과 같<mecab>은 마크다운<mecab>으로 강조<mecab>되<mecab>어야 합니다<mecab>.
+코틀린<mecab>과 자바의 장단점<mecab>은 무엇인가요<mecab>? 당신<mecab>의 답변<mecab>은 <<코틀린 vs 자바>><mecab>와 같<mecab>은 이중 꺾쇠 괄호<mecab>로 포함<mecab>된 제목<mecab>이 있<mecab>어야 합니다<mecab>.
+공룡<mecab>이 멸종<mecab>한 이유<mecab>에 대한 재미있<mecab>는 기사<mecab>를 작성<mecab>하<mecab>고 전체 응답 주위<mecab>에 큰따옴표<mecab>를 넣<mecab>으세요<mecab>. 응답<mecab>에<mecab>는 정확히 8개의 글머리 기호가 포함<mecab>되<mecab>어야 합니다<mecab>. 글머리 기호<mecab>는 다음 형식<mecab>이<mecab>어야 합니다:
+* 이것<mecab>은 글머리 기호 1입니다
+* 이것<mecab>은 글머리 기호 2입니다
+...
+인도<mecab>를 위한 7일 여행 일정<mecab>과 중국<mecab>을 위한 7일 여행 일정<mecab>을 포함<mecab>한 표<mecab>를 만드세요<mecab>. 정확히 6개의 별표 기호<mecab>로 구분<mecab>하<mecab>세요: *******
+저<mecab>는 제 사업<mecab>을 시작<mecab>하<mecab>고 싶<mecab>습니다<mecab>. 일반<mecab>적인 조언<mecab>을 해<mecab>주<mecab>실 수 있<mecab>나요<mecab>? "사진"<mecab>이<mecab>라는 언급<mecab>은 피해<mecab>주<mecab>세요 - 저<mecab>는 그 시장<mecab>에 관심<mecab>이 없<mecab>습니다<mecab>. 정확히 5개의 단락<mecab>으로 조언<mecab>을 제공<mecab>해 주<mecab>셨<mecab>으면 합니다 (인접<mecab>한 단락<mecab>은 3개의 별표 기호 ***<mecab>로 구분<mecab>해 주세요) 그리고 최소한 3개의 섹션<mecab>을 마크다운<mecab>으로 강조<mecab>해 주<mecab>세요, 예<mecab>를 들<mecab>어 *강조<mecab>된 섹션*<mecab>과 같이<mecab>요<mecab>.
+"Brilliant Le Hou"의 간단<mecab>한 전기<mecab>를 작성<mecab>하<mecab>세요<mecab>. 답변<mecab>에 쉼표<mecab>를 사용<mecab>하<mecab>지 마세요<mecab>. 최소 3개의 섹션<mecab>을 마크다운<mecab>으로 강조 표시<mecab>하<mecab>세요 즉 *강조<mecab>된 섹션*. 전기<mecab>는 그 사람의 이름<mecab>으로 시작<mecab>해야 합니다<mecab>.
+핵<mecab>은 양성자<mecab>와 중성자의 집합체입니다<mecab>. 이<mecab>에 대해 자세히 설명<mecab>하<mecab>십시오<mecab>. 정확히 9개의 매우 짧<mecab>은 글머리 기호<mecab>를 작성<mecab>하<mecab>십시오<mecab>. 사용<mecab>하<mecab>는 단어 수<mecab>를 제한<mecab>하<mecab>십시오(100단어 미만)<mecab>. 예<mecab>를 들<mecab>면:
+* 핵<mecab>은 양성자<mecab>와 중성자의 집합체입니다<mecab>.
+* 양성자<mecab>는 ....
+
+위의 예시 형식<mecab>을 따르<mecab>십시오<mecab>.
+자바<mecab>에 대해 배우<mecab>기 위한 화려<mecab>한 수업 계획<mecab>을 작성<mecab>하<mecab>세요<mecab>. P.P.S<mecab>로 시작<mecab>하<mecab>는 후기<mecab>를 포함<mecab>하<mecab>는 것<mecab>을 잊<mecab>지 마세요<mecab>.
+립리의 아쿠아리움<mecab>에 대한 블로그 포스트<mecab>를 작성<mecab>하<mecab>세요<mecab>. 블로그 포스트<mecab>에<mecab>는 [위치]<mecab>와 같<mecab>은 대괄호<mecab>로 표시<mecab>된 최소 7개의 자리 표시<mecab>자<mecab>가 포함<mecab>되<mecab>어야 합니다<mecab>.
+Java API의 부적절<mecab>한 사용<mecab>은 웹 애플리케이션의 취약점<mecab>을 초래<mecab>할 수 있<mecab>습니다<mecab>. 이<mecab>를 보여<mecab>주<mecab>는 코드 스니펫<mecab>을 작성<mecab>하<mecab>십시오<mecab>. 그런 다음 코드<mecab>를 수정<mecab>하<mecab>는 방법<mecab>을 보여<mecab>주<mecab>십시오<mecab>. 나쁜 코드 스니펫<mecab>과 좋<mecab>은 코드 스니펫<mecab>을 줄 바꿈<mecab>으로 구분<mecab>하<mecab>십시오, *** 그 다음 또 다른 줄 바꿈<mecab>. 예:
+
+[코드 스니펫 1]
+***
+[코드 스니펫 2]
+
+코드 스니펫<mecab>에 코드 주석<mecab>을 추가<mecab>하<mecab>십시오<mecab>. 주석 중 하나<mecab>는 "취약점" 이라는 키워드<mecab>를 포함<mecab>해야 합니다<mecab>.
+소프트웨어 엔지니어 작업<mecab>을 위한 계획 문서<mecab>를 작성<mecab>하<mecab>세요<mecab>. 아래의 정확<mecab>한 형식<mecab>을 따르<mecab>세요:
+
+1부<mecab>. 작업 요약
+[여기<mecab>에 세부정보<mecab>를 입력<mecab>하<mecab>세요]
+***
+2부<mecab>. 동기
+[여기<mecab>에 세부정보<mecab>를 입력<mecab>하<mecab>세요]
+***
+3부<mecab>. 이정표 목표
+[여기<mecab>에 세부정보<mecab>를 입력<mecab>하<mecab>세요]
+***
+4부<mecab>. 일정
+[여기<mecab>에 세부정보<mecab>를 입력<mecab>하<mecab>세요]
+***
+5부<mecab>. 문서 이력
+[여기<mecab>에 세부정보<mecab>를 입력<mecab>하<mecab>세요]
+내 지역 초등학교<mecab>에 새로운 놀이터<mecab>를 만들<mecab>기 위한 제안서<mecab>에 대해 10문장 이하로 재미있<mecab>는 노래<mecab>를 써 주<mecab>세요<mecab>.
+미국<mecab>의 최신 뉴스<mecab>에 대한 블로그 게시물<mecab>을 작성<mecab>하<mecab>되, 제목<mecab>은 이중 각괄호<mecab>로 표시<mecab>하<mecab>고, 즉 <<제목>><mecab>로 하<mecab>며, 5문장 미만(5문장 제외)<mecab>으로 작성<mecab>하<mecab>십시오<mecab>. 문장<mecab>은 길<mecab>어야 하<mecab>며, 응답의 총 단어 수<mecab>는 250개 이상<mecab>이<mecab>어야 합니다<mecab>.
+같<mecab>은 것<mecab>에 대해 두 가지 다른 이름<mecab>을 사용<mecab>하<mecab>는 것<mecab>의 장단점<mecab>을 나열<mecab>하<mecab>십시오<mecab>. 동의어라는 단어<mecab>가 최소한 3번 나타나<mecab>도록 하<mecab>십시오<mecab>.
+30줄의 시<mecab>를 짧<mecab>은 문장<mecab>으로 작성<mecab>하<mecab>되 쉼표<mecab>는 사용<mecab>하<mecab>지 마세요<mecab>. 각 줄<mecab>에<mecab>는 정확히 한 문장<mecab>이 들어가<mecab>야 합니다<mecab>. 각 줄<mecab>의 끝<mecab>에 올바른 구두점<mecab>을 넣<mecab>는 것<mecab>을 잊<mecab>지 마세요<mecab>. 당신<mecab>의 전체 응답<mecab>은 시<mecab>만 포함<mecab>해야 합니다<mecab>.
+형태론<mecab>에 관한 전문<mecab>적인 농담<mecab>을 작성<mecab>하<mecab>되, "고양이"라는 단어<mecab>를 최소한 한 번, "노크"라는 단어<mecab>를 최소한 두 번 포함<mecab>하<mecab>세요<mecab>. 전체 응답<mecab>을 큰따옴표<mecab>로 감싸<mecab>세요<mecab>.
+망아지의 크기<mecab>는 1.5 미터입니다<mecab>. 매달 15센치미터 자랄 것입니다<mecab>. 3년 후<mecab>에<mecab>는 얼마나 클까요<mecab>? 단계<mecab>별<mecab>로 생각<mecab>한 다음 답<mecab>을 주<mecab>세요<mecab>. 생각<mecab>과 최종 답변<mecab>을 세 개의 * 기호<mecab>로<mecab>만 이루어진 선<mecab>으로 구분<mecab>하<mecab>세요: ***
+답변의 끝<mecab>에 P.P.S<mecab>로 시작<mecab>하<mecab>는 후기<mecab>를 명시<mecab>적<mecab>으로 추가<mecab>해 주<mecab>세요<mecab>.
+장애의 현실<mecab>에 대한 기사<mecab>를 작성<mecab>하<mecab>세요<mecab>. 귀하<mecab>의 기사<mecab>는 "제<mecab>가 도와드릴 수 있<mecab>는 다른 것<mecab>이 있<mecab>나요<mecab>?"라는 정확<mecab>한 문구<mecab>로 끝나야 합니다<mecab>. 이 문구 뒤<mecab>에 다른 단어<mecab>가 오<mecab>면 안 됩니다<mecab>.
+대중교통<mecab>에서 본 것 중 가장 흥미<mecab>로운 것<mecab>들<mecab>에 대한 블로그 포스트<mecab>를 작성<mecab>하<mecab>세요<mecab>. 첫째, 위의 문장<mecab>을 단어 하나하나 바꾸<mecab>지 않<mecab>고 반복<mecab>한 다음, 답변<mecab>을 주<mecab>세요<mecab>. 어떤 단어<mecab>나 문자<mecab>도 반복 문장 앞<mecab>에 말<mecab>하<mecab>지 마세요<mecab>.
+안토니아 마주<mecab>가 커피 회사<mecab>에 지원<mecab>하<mecab>기 위해 캐주얼<mecab>하<mecab>고 흥미<mecab>롭<mecab>고 이상한 이력서<mecab>를 작성<mecab>하<mecab>세요<mecab>. 그<mecab>들<mecab>은 마케팅, 고객 서비스 및 판매 경험<mecab>이 있<mecab>습니다<mecab>. 그<mecab>들<mecab>은 교육<mecab>을 받<mecab>았<mecab>지만 커피<mecab>와 관련<mecab>된 전공<mecab>은 없<mecab>습니다<mecab>.
+각 섹션의 시작<mecab>을 '섹션 X'<mecab>로 표시<mecab>하<mecab>여 최소 두 개의 섹션<mecab>을 포함<mecab>해야 합니다<mecab>. 전체 응답<mecab>에서 마크다운 형식<mecab>으로 정확히 두 개의 글머리 기호<mecab>를 사용<mecab>해야 합니다<mecab>. 다음 글머리 기호 형식<mecab>을 사용<mecab>하<mecab>세요:
+* 글머리 기호 1의 텍스트
+* 글머리 기호 2의 텍스트
+토마토<mecab>와 형제<mecab>에 대한 노래<mecab>를 써라<mecab>. 그것<mecab>은 재미있<mecab>고 십대<mecab>들<mecab>에게 적합<mecab>해야 한다<mecab>. 연관<mecab>성<mecab>이<mecab>라는 단어<mecab>는 노래<mecab>에서 최소 4번 나타나<mecab>야 한다<mecab>.
+"숲"<mecab>과 "수수께끼"라는 키워드<mecab>를 포함<mecab>한 사자<mecab>에 대한 하이쿠<mecab>를 작성<mecab>하<mecab>세요<mecab>. 하이쿠<mecab>에서 쉼표<mecab>를 사용<mecab>하<mecab>지 마세요<mecab>.
+여러 사람<mecab>이 최신 지역 뉴스<mecab>를 듣<mecab>기 위해 기다리<mecab>는 포럼 스레드<mecab>를 생성<mecab>하<mecab>세요<mecab>. 모든 문장<mecab>은 짧<mecab>아야 합니다<mecab>. 쉼표<mecab>를 사용<mecab>하<mecab>지 마세요<mecab>. 다양<mecab>한 사용자 이름<mecab>을 나타내<mecab>기 위해 자리 표시<mecab>자<mecab>를 사용<mecab>하<mecab>세요<mecab>. 자리 표시<mecab>자<mecab>는 대괄호<mecab>로 표시<mecab>하<mecab>세요 [username1] [username2]<mecab>. 스레드<mecab>에 최소 20개의 자리 표시<mecab>자<mecab>를 포함<mecab>하<mecab>세요<mecab>.
+저<mecab>는 7년의 경력<mecab>을 가진 소프트웨어 엔지니어<mecab>이<mecab>며, 새로운 직장<mecab>을 찾<mecab>고 있<mecab>습니다<mecab>. 저<mecab>를 위해 이력서<mecab>를 작성<mecab>해 주<mecab>시<mecab>고 각 섹션<mecab>을 설명<mecab>해 주실 수 있<mecab>나요<mecab>?
+
+먼저 위의 요청<mecab>을 정확히 반복<mecab>한 다음, 답변<mecab>을 주<mecab>세요<mecab>. 어떤 말<mecab>도 하<mecab>기 전<mecab>에 정확<mecab>한 요청<mecab>을 반복<mecab>하<mecab>세요<mecab>.
+장애인의 삶<mecab>의 질<mecab>을 향상<mecab>시키<mecab>기 위한 새로운 연구 프로젝트<mecab>에 대한 제안<mecab>을 작성<mecab>하<mecab>십시오<mecab>. 귀하<mecab>의 응답<mecab>은 HTML<mecab>로 렌더링<mecab>될 수 있<mecab>어야 하<mecab>며, '아틀란티스'<mecab>와 '경찰관'<mecab>이<mecab>라는 키워드<mecab>를 포함<mecab>해야 합니다<mecab>.
+테니스<mecab>에 사용<mecab>되<mecab>는 공의 종류<mecab>를 말씀<mecab>해 주실 수 있<mecab>나요<mecab>? 답변<mecab>은 중세 스타일의 시 형식<mecab>으로, 끝<mecab>에 P.P.S<mecab>를 포함<mecab>해 주<mecab>셨<mecab>으면 합니다<mecab>.
+이 작업<mecab>에서 아래의 요청<mecab>을 먼저 정확히 반복<mecab>한 다음 응답<mecab>을 제공<mecab>합니다<mecab>. 정확<mecab>한 요청<mecab>을 반복<mecab>하<mecab>기 전<mecab>에 어떤 말<mecab>도 하<mecab>지 마십시오<mecab>.
+
+쉼표<mecab>를 사용<mecab>하<mecab>지 않<mecab>고 한반도<mecab>에 대한 어쿠스틱 노래<mecab>를 작성<mecab>하<mecab>십시오<mecab>.
+퀴어 소유의 비즈니스인 "더 레인보우 카페"<mecab>를 위한 파일<mecab>을 작성<mecab>하<mecab>세요<mecab>. 귀하<mecab>의 파일<mecab>은 4개의 섹션<mecab>으로 구성<mecab>되<mecab>어야 하<mecab>며, 각 섹션<mecab>은 "섹션 X"<mecab>로 시작<mecab>해야 합니다<mecab>.
+저<mecab>는 Google<mecab>에서 소프트웨어 엔지니어<mecab>로 일자리<mecab>를 지원<mecab>하<mecab>고 싶<mecab>습니다<mecab>. 간결<mecab>한 버전<mecab>과 긴 버전의 두 가지 다른 자기소개서<mecab>를 작성<mecab>해 주실 수 있<mecab>나요<mecab>? 두 옵션 모두 제목<mecab>이 이중 각괄호<mecab>로 감싸져 있<mecab>도록 해 주<mecab>세요, 즉 <<제목>>.
+젊<mecab>은 사람<mecab>들<mecab>이 좋<mecab>아할 만한 새로운 패션 회사<mecab>를 이름 짓<mecab>고, 여러 가지 의미<mecab>를 가진 이름<mecab>을 지<mecab>어<mecab>주<mecab>세요<mecab>. 이름<mecab>은 <<이름>><mecab>과 같이 이중 각괄호 안<mecab>에 넣<mecab>어<mecab>주<mecab>세요<mecab>.
+
+먼저 위의 요청<mecab>을 반복<mecab>한 후, 아무 말<mecab>도 하<mecab>지 않<mecab>거나 요청<mecab>에 진짜<mecab>로 응답<mecab>하<mecab>지 마세요<mecab>.
+아이<mecab>들<mecab>이 자전거<mecab>를 타<mecab>는 법<mecab>을 배우<mecab>는 사람<mecab>에 대한 이야기<mecab>를 써<mecab>주<mecab>세요<mecab>. '가능'<mecab>과 '타다'<mecab>는 포함<mecab>하<mecab>지 마세요<mecab>.
+이 문장<mecab>을 재미있<mecab>게 비판<mecab>해 보<mecab>세요: "Nhiệm vụ của mẹ là nuôi dạy con cái<mecab>."
+
+******<mecab>로 나뉜 정확히 두 개의 비판<mecab>을 제공<mecab>하<mecab>세요<mecab>. 각 응답<mecab>은 전적<mecab>으로 베트남어<mecab>로 작성<mecab>되<mecab>어야 하<mecab>며 다른 언어<mecab>는 허용<mecab>되<mecab>지 않<mecab>으며 쉼표<mecab>를 포함<mecab>하<mecab>지 않<mecab>아야 합니다<mecab>.
+엄마<mecab>들<mecab>을 위해 아이<mecab>들<mecab>이 집안일<mecab>을 하<mecab>도록 하<mecab>는 것<mecab>이 얼마나 힘든지<mecab>에 대한 두 개의 리머릭<mecab>을 써라<mecab>. 화가 난 말투<mecab>로 작성<mecab>하<mecab>라<mecab>. 두 개의 리머릭<mecab>을 여섯 개의 별표(******)<mecab>로 구분<mecab>하<mecab>라<mecab>.
+먼저 아래 요청<mecab>을 단어 하나하나 변경 없이 그대로 반복<mecab>한 다음, 당신<mecab>의 대답<mecab>을 하<mecab>세요<mecab>. 아래 요청<mecab>을 반복<mecab>하<mecab>기 전<mecab>에 어떤 단어<mecab>나 문자<mecab>도 말<mecab>하<mecab>지 마세요<mecab>.
+
+한 남자<mecab>가 자신의 삶<mecab>을 정리<mecab>하<mecab>려고 하<mecab>는 이야기<mecab>를 써<mecab>주<mecab>세요<mecab>. 이야기의 이름<mecab>은 이중 꺾쇠 괄호 안<mecab>에 넣<mecab>어<mecab>주<mecab>세요, 예<mecab>를 들<mecab>어, <<xyz의 이야기>>입니다<mecab>.
+조던 피터슨의 작업<mecab>에서 신화의 역할<mecab>에 대한 매우 짧<mecab>은 에세이<mecab>를 작성<mecab>하<mecab>십시오<mecab>. 전체 응답<mecab>을 100단어 이하로 유지<mecab>하<mecab>십시오<mecab>. 글<mecab>을 일반<mecab>적<mecab>으로 작성<mecab>하<mecab>십시오<mecab>. 답변<mecab>에서 최소 2개의 섹션<mecab>을 *강조<mecab>된 섹션*<mecab>으로 강조 표시<mecab>하<mecab>십시오<mecab>.
+새 스마트폰<mecab>에 대한 랩<mecab>을 써라<mecab>. 응답의 끝<mecab>에 P.P.S<mecab>로 시작<mecab>하<mecab>는 추신<mecab>을 추가<mecab>하<mecab>라<mecab>. 응답<mecab>에<mecab>는 최소 6개의 대체 텍스트<mecab>가 대괄호<mecab>로 표시<mecab>되<mecab>어야 한다<mecab>.
+나<mecab>는 Lilith라는 앨범<mecab>을 정말 좋<mecab>아해<mecab>. 그것<mecab>을 내 친구 Luheng<mecab>에게 소개<mecab>하<mecab>고 싶<mecab>어<mecab>. 그것<mecab>에 대한 이메일 초안<mecab>을 작성<mecab>해줘<mecab>. 너<mecab>의 응답<mecab>에 P.S.<mecab>로 시작<mecab>하<mecab>는 추신<mecab>을 추가<mecab>해줘<mecab>.
+두 사람<mecab>이 지문<mecab>을 바꾸<mecab>는 이야기<mecab>에 대한 줄거리<mecab>를 작성<mecab>하<mecab>세요<mecab>. 제목<mecab>은 이중 각괄호<mecab>로 감싸<mecab>주<mecab>세요 즉 <<제목>>. 응답<mecab>에서<mecab>는 쉼표<mecab>를 사용<mecab>하<mecab>지 마세요<mecab>.
+
+먼저 위의 요청<mecab>을 변경<mecab>하<mecab>지 않<mecab>고 그대로 반복<mecab>하<mecab>세요<mecab>.
+변경 없이 요청<mecab>을 반복<mecab>한 후<mecab>에<mecab>는 응답<mecab>을 제공<mecab>할 수 있<mecab>습니다<mecab>.
+"버스<mecab>가 정류장<mecab>에 도착<mecab>했<mecab>다"<mecab>는 문장<mecab>을 더 흥미<mecab>롭<mecab>게 만들<mecab>어 보<mecab>세요<mecab>. "정류장"<mecab>이<mecab>라는 단어<mecab>는 사용<mecab>하<mecab>지 마세요<mecab>.
+엄마<mecab>들<mecab>을 대상<mecab>으로 하<mecab>는 홈 시어터 설치<mecab>를 위한 루브릭<mecab>을 만드세요<mecab>. 당신<mecab>의 답변<mecab>은 정확히 4개의 글머리 기호<mecab>를 포함<mecab>해야 합니다<mecab>. 다음<mecab>과 같<mecab>은 마크다운 글머리 기호<mecab>를 사용<mecab>하<mecab>세요:
+* 이것<mecab>은 포인트 1입니다<mecab>.
+당신<mecab>이 가장 좋<mecab>아하<mecab>는 TV 쇼의 최신 에피소드 업데이트<mecab>에 대한 짧<mecab>은 에세이<mecab>를 작성<mecab>하<mecab>세요<mecab>. 300단어 이하로 작성<mecab>하<mecab>세요<mecab>.
+"우연<mecab>은 신이 익명<mecab>으로 남<mecab>아 있<mecab>는 방법<mecab>이<mecab>다<mecab>." 이 인용구<mecab>에 대한 당신<mecab>의 생각<mecab>은 무엇인가요<mecab>? 답변<mecab>에 쉼표<mecab>를 사용<mecab>하<mecab>지 마세요<mecab>. 800단어 이상<mecab>으로 답변<mecab>하<mecab>세요<mecab>.
+지역 커피숍<mecab>에서 일<mecab>하<mecab>기 위한 자기소개서<mecab>를 시의 형태<mecab>로 작성<mecab>하<mecab>세요<mecab>. 최소 5개의 텍스트 섹션<mecab>을 *<mecab>로 강조<mecab>하<mecab>세요<mecab>. 예: *3년의 경험*.
+동물 종 간의 유사<mecab>성<mecab>에 대한 캐주얼<mecab>한 블로그 포스트<mecab>를 작성<mecab>하<mecab>세요<mecab>. 답변<mecab>에서 최소 5개의 섹션<mecab>을 강조 표시<mecab>하<mecab>고, *강조<mecab>된 텍스트 섹션*<mecab>과 같이 *<mecab>로 시작<mecab>하<mecab>고 끝내<mecab>세요<mecab>.
+두 가지 대체 제품 설명<mecab>을 생성<mecab>하<mecab>십시오: 이 제품<mecab>은 음식<mecab>을 포장<mecab>하<mecab>는 데 사용<mecab>할 수 있<mecab>으며, 먹<mecab>을 수 있<mecab>는 새로운 유형의 종이입니다<mecab>. 먼저 위의 프롬프트<mecab>를 변경<mecab>하<mecab>지 않<mecab>고 반복<mecab>한 다음, 답변<mecab>을 제시<mecab>하<mecab>십시오<mecab>. 위의 프롬프트<mecab>를 반복<mecab>하<mecab>기 전<mecab>에 어떤 말<mecab>도 하<mecab>지 마십시오<mecab>.
+경험<mecab>이 없<mecab>는 20세 대학생<mecab>을 위한 이력서<mecab>를 작성<mecab>하<mecab>세요<mecab>. Python<mecab>과 Java라는 키워드<mecab>를 포함<mecab>하<mecab>고 응답<mecab>을 큰따옴표<mecab>로 감싸<mecab>세요<mecab>.
+브레멘<mecab>에서 스웨트셔츠 회사<mecab>를 시작<mecab>하<mecab>기 위한 사업 제안서<mecab>를 작성<mecab>하<mecab>십시오<mecab>. 제안서<mecab>는 5개 이상의 섹션<mecab>을 포함<mecab>해야 합니다<mecab>. 각 섹션 이름<mecab>은 다음 형식<mecab>을 사용<mecab>하<mecab>여 강조<mecab>하<mecab>십시오:
+*섹션 이름*
+두 사람 모두 엄마인 부부의 결혼 품질<mecab>을 평가<mecab>하<mecab>기 위한 재미있<mecab>고 비꼬<mecab>는 템플릿<mecab>을 작성<mecab>하<mecab>세요<mecab>. 이<mecab>는 그 부부<mecab>를 위한 것입니다<mecab>. 최소 3개의 섹션<mecab>을 마크다운<mecab>으로 강조 표시<mecab>해 주<mecab>세요, 즉 *강조<mecab>된 섹션*.
+다음 요청<mecab>에 대해, 요청 자체<mecab>를 정확히 반복<mecab>한 후<mecab>에 답변<mecab>을 주<mecab>세요<mecab>. 요청<mecab>을 전혀 변경<mecab>하<mecab>지 말<mecab>고, 요청<mecab>을 반복<mecab>하<mecab>기 전<mecab>에 아무 말<mecab>도 하<mecab>지 마세요<mecab>.
+
+안녕<mecab>하<mecab>세요<mecab>. 저<mecab>는 학생<mecab>들<mecab>에게 영화 라라랜드<mecab>에 대한 강의<mecab>를 해야 합니다<mecab>. 흥미<mecab>롭<mecab>고 유익<mecab>한 강의 개요<mecab>를 작성<mecab>하<mecab>는 데 도움<mecab>을 주<mecab>세요<mecab>.
+요청:
+  1<mecab>. 체코의 보헤미아<mecab>에서 방문<mecab>하<mecab>기 좋<mecab>은 장소<mecab>는 어디인가요<mecab>?
+  2<mecab>. 추천 호텔 목록<mecab>을 포함<mecab>하<mecab>세요<mecab>.
+  3<mecab>. 전체 출력<mecab>을 JSON 형식<mecab>으로 감싸<mecab>세요<mecab>.
+  4<mecab>. 다음 키워드<mecab>는 포함<mecab>하<mecab>지 마세요: Moser, Glassworks, Pravcice, Karlovy, Vary
+상사<mecab>에게 급여 인상<mecab>을 요청<mecab>하<mecab>는 전문<mecab>적인 이메일<mecab>을 작성<mecab>하<mecab>세요<mecab>. 응답의 끝<mecab>에 P.P.S<mecab>로 시작<mecab>하<mecab>는 후기<mecab>를 명시<mecab>적<mecab>으로 추가<mecab>하<mecab>세요<mecab>.
+
+응답<mecab>을 다음 문구<mecab>로 끝내<mecab>세요: 당신<mecab>이 저<mecab>와 동의<mecab>하<mecab>길 바랍니다<mecab>.
+바나나 껍질의 생물학<mecab>에 대한 흥미<mecab>롭<mecab>고 재미있<mecab>는 기사<mecab>를 작성<mecab>하<mecab>세요<mecab>. 당신<mecab>의 응답<mecab>에<mecab>는 실망<mecab>이<mecab>라는 단어<mecab>가 최소 2번 나타나<mecab>야 하<mecab>며, 최소 6개의 섹션<mecab>이 마크다운<mecab>으로 강조<mecab>되<mecab>어야 합니다, 즉 *바나나 껍질*.
+원인<mecab>을 알리<mecab>기 위한 방법<mecab>에 대한 블로그 포스트<mecab>를 작성<mecab>하<mecab>세요<mecab>. 전체 응답<mecab>이 큰따옴표<mecab>로 감싸져 있<mecab>고, 다섯 개의 섹션<mecab>이 있<mecab>는지 확인<mecab>하<mecab>세요<mecab>. 각 섹션의 시작<mecab>을 섹션 X<mecab>로 표시<mecab>하<mecab>세요<mecab>.
+공주<mecab>와 드래곤<mecab>에 대한 동화<mecab>를 쓰<mecab>되, '대답<mecab>했<mecab>다'라는 단어<mecab>가 최소한 두 번 등장<mecab>하<mecab>도록 하<mecab>세요<mecab>.
+이 시리즈의 다음 숫자<mecab>는 무엇인가요: 1, 4, 7, 11, 17<mecab>? 수학 기호<mecab>만 사용<mecab>하<mecab>여 답<mecab>해<mecab>주<mecab>세요, 쉼표 없이<mecab>.
+다음 문장<mecab>을 오직 베트남어<mecab>로<mecab>만 다시 작성<mecab>하<mecab>십시오<mecab>. 다른 언어<mecab>는 허용<mecab>되<mecab>지 않<mecab>으며, 쉼표<mecab>를 사용<mecab>하<mecab>지 마십시오: "우리<mecab>는 내년<mecab>을 위해 우리<mecab>의 모델<mecab>을 개선<mecab>할 수 있<mecab>을지<mecab>도 모릅니다<mecab>. 우리<mecab>는 우리<mecab>의 데이터<mecab>를 작년의 데이터<mecab>와 비교<mecab>할 수 있<mecab>으며, 우리<mecab>의 모델<mecab>이 어떻<mecab>게 수행<mecab>되<mecab>었<mecab>는지 볼 수 있<mecab>습니다<mecab>. 우리<mecab>는 또한 작년 데이터<mecab>로 훈련<mecab>된 모델<mecab>과 우리<mecab>의 모델<mecab>을 비교<mecab>하<mecab>고 우리<mecab>의 모델<mecab>이 어떻<mecab>게 수행<mecab>되<mecab>는지 볼 수 있<mecab>습니다<mecab>." 다른 언어<mecab>는 허용<mecab>되<mecab>지 않<mecab>습니다<mecab>.
+벤자민 프랭클린의 삶<mecab>에 대한 에세이<mecab>를 작성<mecab>하<mecab>세요<mecab>. 그런 다음 에세이<mecab>를 시<mecab>로 요약<mecab>하<mecab>세요<mecab>. 에세이<mecab>와 시<mecab>는 6개의 별표 기호<mecab>로 구분<mecab>하<mecab>세요: ******
+다시 말<mecab>해, 당신<mecab>의 응답<mecab>은 다음<mecab>과 같<mecab>은 형식<mecab>을 가져야 합니다:
+[에세이]
+******
+[시]
+좋<mecab>은 중국 시<mecab>를 어떻<mecab>게 쓰<mecab>나요<mecab>? 당신<mecab>의 응답 끝<mecab>에 P.S.<mecab>로 시작<mecab>하<mecab>는 메모<mecab>를 명시<mecab>적<mecab>으로 추가<mecab>해 주<mecab>세요<mecab>.
+내<mecab>가 시골<mecab>에서 보낸 어린 시절의 여름<mecab>에 대한 노래<mecab>를 써<mecab>주<mecab>세요<mecab>. 노래<mecab>에 이름<mecab>을 붙이<mecab>고, 그 이름<mecab>을 *<mecab>로 감싸<mecab>서 강조<mecab>해<mecab>주<mecab>세요<mecab>. 예: *시골<mecab>의 작<mecab>은 나*.
+지메네즈 가족<mecab>은 20명의 구성원<mecab>으로 이루어져 있<mecab>습니다<mecab>. 각 구성원<mecab>은 최소한 하나의 애완동물<mecab>을 가지<mecab>고 있<mecab>습니다<mecab>. 총 32마리의 애완동물<mecab>이 있<mecab>다면, 최대 몇 명의 구성원<mecab>이 3마리의 애완동물<mecab>을 가질 수 있<mecab>을까요<mecab>? 이 문제<mecab>를 단계<mecab>별<mecab>로 해결<mecab>하<mecab>고, 전체 응답(추론 과정<mecab>과 최종 답변)<mecab>을 큰따옴표<mecab>로 감싸<mecab>세요<mecab>.
+영화 제작자<mecab>가 인터넷의 역사<mecab>에 관한 영화의 자금<mecab>을 확보<mecab>하<mecab>려고 하<mecab>고 있<mecab>습니다<mecab>. 잠재<mecab>적 투자자<mecab>에게 제안서<mecab>에 사용<mecab>할 에세이<mecab>를 작성<mecab>하<mecab>십시오<mecab>. 에세이<mecab>는 최소 50문장 이상<mecab>이<mecab>어야 합니다<mecab>.
+앰버 허드<mecab>와 조니 뎁 사이의 명예훼손 사건<mecab>에서 누가 이겼<mecab>나요<mecab>? 노인 그룹<mecab>에 글<mecab>을 쓰<mecab>는 것<mecab>처럼 답변<mecab>을 작성<mecab>하<mecab>세요<mecab>. 먼저 앰버 허드의 관점<mecab>에서 작성<mecab>한 후, 조니 뎁의 관점<mecab>에서 작성<mecab>하<mecab>세요<mecab>. 두 버전<mecab>은 6개의 별표 기호 ******<mecab>로 구분<mecab>하<mecab>세요<mecab>. 전체 응답<mecab>은 300단어 미만<mecab>이<mecab>어야 합니다<mecab>.
+초등학생 그룹<mecab>에게 우리<mecab>가 계절<mecab>이 있<mecab>는 이유<mecab>를 설명<mecab>하<mecab>세요<mecab>. 응답의 끝<mecab>에 P.S.<mecab>로 시작<mecab>하<mecab>는 후기<mecab>를 추가<mecab>해야 합니다<mecab>.
+간달프<mecab>는 반지 전쟁<mecab>에서 싸운 마법사였<mecab>다<mecab>. 이것<mecab>이 10세 어린이<mecab>를 위한 좋<mecab>은 설명인가<mecab>? 먼저 생각<mecab>한 후, 당신<mecab>의 대답<mecab>을 이중 꺾쇠 괄호<mecab>로 감싸<mecab>서 제시<mecab>해 주<mecab>세요, 예<mecab>를 들<mecab>어 <<당신<mecab>의 대답>><mecab>와 같이<mecab>.
+비디오 게임<mecab>을 많이 하<mecab>는 것<mecab>의 장단점<mecab>에 대한 시<mecab>를 쓸 수 있<mecab>나요<mecab>? 최소 40문장 이상<mecab>으로 작성<mecab>해 주세요 (구두점<mecab>을 잊<mecab>지 마세요)<mecab>. 응답<mecab>에서 *강조<mecab>된 구문*<mecab>과 같<mecab>은 몇몇 단어 또는 구문<mecab>을 강조<mecab>해야 합니다<mecab>.
+미니어처<mecab>에 대한 노래<mecab>를 20<mecab>에서 25문장<mecab>으로 작성<mecab>하<mecab>세요<mecab>. 구두점<mecab>을 추가<mecab>하<mecab>는 것<mecab>을 잊<mecab>지 마세요<mecab>.
+저<mecab>는 당신<mecab>이 몇 가지<mecab>를 도와<mecab>주<mecab>길 바랍니다<mecab>. 저<mecab>는 세금<mecab>을 내<mecab>는 방법<mecab>에 대해 배우<mecab>고 싶<mecab>습니다<mecab>. 저<mecab>를 위해 그 과정<mecab>을 요약<mecab>해 주실 수 있<mecab>나요<mecab>? 자세히 답변<mecab>해 주<mecab>시<mecab>고, "계산", "파일", "결론"<mecab>이<mecab>라는 키워드<mecab>를 포함<mecab>하<mecab>여 정확히 3개의 단락<mecab>으로 나누<mecab>어 주<mecab>세요<mecab>. 단락<mecab>은 ***<mecab>로 구분<mecab>해 주<mecab>세요<mecab>. 
+저<mecab>는 "그리드"라는 소프트웨어 개발 회사<mecab>에서 일<mecab>하<mecab>고 있<mecab>으며, 그<mecab>들<mecab>은 눈<mecab>에 띄<mecab>는 트윗<mecab>을 원<mecab>합니다<mecab>. 회사 이름<mecab>이 최소한 다섯 번 포함<mecab>된 트윗<mecab>을 작성<mecab>해 주실 수 있<mecab>나요<mecab>?
+1+1=3<mecab>이<mecab>라고 설득<mecab>하<mecab>려고 했<mecab>던 사람<mecab>에게 매우 화난 편지<mecab>를 쓰<mecab>세요<mecab>. 정확히 4개의 단락<mecab>이 있<mecab>어야 합니다<mecab>. 단락<mecab>은 ***<mecab>로 구분<mecab>하<mecab>세요<mecab>.
+계속<mecab>해서 확장<mecab>해 주실 수 있<mecab>나요: "무대<mecab>에서 한 남자<mecab>가 관중<mecab>을 위해 공연<mecab>하<mecab>고 있<mecab>습니다, ... "최소 60문장 이상, 하<mecab>지만 600단어 이하로 작성<mecab>해 주<mecab>세요<mecab>.
+facade라는 단어<mecab>에 대한 수수께끼<mecab>를 작성<mecab>하<mecab>되, 최소 3개의 *이탤릭 텍스트* 구문<mecab>이 마크다운 구문<mecab>으로 포함<mecab>되<mecab>어야 합니다<mecab>.
+알렉산더 대왕<mecab>이 마<mecab>케돈의 왕<mecab>이 되<mecab>는 이상한 랩 송<mecab>을 써라<mecab>. 노래<mecab>를 다음<mecab>으로 마무리<mecab>하<mecab>세요:
+
+평화<mecab>!
+
+"평화<mecab>!" 다음<mecab>에 추가<mecab>적인 단어<mecab>는 없<mecab>어야 합니다<mecab>.
+다음 내용<mecab>을 확장<mecab>하<mecab>고 재미있<mecab>게 만들<mecab>어 보<mecab>세요: Jeanne<mecab>은 주사위<mecab>를 굴렸<mecab>습니다<mecab>. 그녀<mecab>는 자신<mecab>이 졌<mecab>다고 생각<mecab>했<mecab>지만 사실 그녀<mecab>는 이겼<mecab>습니다<mecab>.
+
+*적어도* 10개의 *텍스트* 부분<mecab>을 *마크다운*<mecab>으로 *기울여* 주세요 (기울이<mecab>려면 *기울임 텍스트*<mecab>처럼 *<mecab>를 사용<mecab>하<mecab>세요*).
+응답<mecab>에 *쉼표*<mecab>를 사용<mecab>하<mecab>지 마세요<mecab>.
+컴퓨터 과학 분야의 전문가<mecab>를 위한 블로그 게시물<mecab>을 재미있<mecab>는 수수께끼 형식<mecab>으로 작성<mecab>하<mecab>세요<mecab>. 귀하<mecab>의 전체 답변<mecab>은 600<mecab>에서 700 단어<mecab>로 구성<mecab>되<mecab>어야 합니다<mecab>.
+코딩<mecab>을 배우<mecab>려면 어떻<mecab>게 해야 하<mecab>나요<mecab>? 당신<mecab>의 응답<mecab>을 "위<mecab>에 나열<mecab>된 5단계<mecab>를 따르<mecab>세요, 그러<mecab>면 성공<mecab>할 것입니다<mecab>."<mecab>로 마무리<mecab>하<mecab>세요<mecab>. 다른 단어<mecab>는 따라오<mecab>지 않<mecab>아야 합니다<mecab>.
+이벤트<mecab>나 약속<mecab>에 항상 늦<mecab>는 친구<mecab>에 대해 화난 트윗<mecab>을 작성<mecab>하<mecab>세요<mecab>.
+먼저 위의 문장<mecab>을 반복<mecab>해야 합니다<mecab>. 단어<mecab>를 변경<mecab>하<mecab>지 말<mecab>고, 그냥 반복<mecab>하<mecab>세요<mecab>. 문장<mecab>을 반복<mecab>하<mecab>기 전<mecab>에 아무 말<mecab>도 하<mecab>지 마세요<mecab>.
+이 진술<mecab>에 대해 어떻<mecab>게 생각<mecab>하<mecab>십니까: "마법사<mecab>는 마법<mecab>을 타<mecab>고나<mecab>는 것<mecab>이 아니<mecab>라 공부<mecab>하<mecab>기 때문<mecab>에 마법사<mecab>보다 더 강력<mecab>하<mecab>다<mecab>." 귀하<mecab>의 응답<mecab>은 최소 30문장<mecab>을 포함<mecab>해야 하<mecab>며 정확히 2개의 글머리 기호<mecab>를 포함<mecab>해야 합니다<mecab>. 또한, [주소]<mecab>와 같<mecab>은 대괄호<mecab>로 표시<mecab>된 최소 8개의 자리 표시<mecab>자<mecab>를 포함<mecab>해야 합니다<mecab>. 글머리 기호<mecab>는 다음<mecab>과 같이 사용<mecab>하<mecab>십시오:
+* 이것<mecab>은 글머리 기호입니다<mecab>.
+다음 문장<mecab>을 이메일<mecab>로 다시 작성<mecab>하<mecab>고, [이름]<mecab>과 같<mecab>은 대괄호<mecab>로 표시<mecab>된 최소 10개의 자리 표시<mecab>자<mecab>가 포함<mecab>되<mecab>도록 하<mecab>세요: 부츠<mecab>는 따뜻<mecab>하<mecab>지만 조금 불편<mecab>합니다<mecab>.
+다음 문장<mecab>을 공식<mecab>적인 이야기<mecab>로 자세히 설명<mecab>하<mecab>십시오: "내 개<mecab>는 갈색<mecab>이<mecab>고 내 고양이<mecab>는 검은색입니다<mecab>." 귀하<mecab>의 답변<mecab>에<mecab>는 제목<mecab>이 포함<mecab>되<mecab>어야 하<mecab>며 제목<mecab>은 이중 꺾쇠 괄호<mecab>로 묶<mecab>여야 합니다 즉 <<제목>> 그리고 귀하<mecab>의 응답<mecab>에<mecab>는 쉼표<mecab>가 포함<mecab>되<mecab>어서<mecab>는 안 됩니다<mecab>. 귀하<mecab>의 응답<mecab>에서 "피부"라는 단어<mecab>는 3회 미만<mecab>으로 나타나<mecab>야 합니다<mecab>.
+스타워즈<mecab>가 왜 이렇<mecab>게 인기<mecab>가 있<mecab>나요<mecab>? 당신<mecab>의 대답<mecab>은 아래 형식<mecab>으로 정확히 4개의 글머리 기호<mecab>로 이루어져야 합니다:
+* 이것<mecab>은 글머리 기호 1입니다
+* 이것<mecab>은 글머리 기호 2입니다
+고객 서비스 대표의 성과<mecab>를 평가<mecab>하<mecab>기 위한 루브릭<mecab>을 글머리 기호 목록의 형태<mecab>로 작성<mecab>하<mecab>십시오<mecab>. 귀하<mecab>의 답변<mecab>에<mecab>는 키워드 ['나쁨', '저조']<mecab>가 포함<mecab>되<mecab>어서<mecab>는 안 되<mecab>며, 다음 형식<mecab>으로 정확히 6개의 글머리 기호가 포함<mecab>되<mecab>어야 합니다:
+* 글머리 기호 1
+* 글머리 기호 2
+* 글머리 기호 3
+* 글머리 기호 4
+* 글머리 기호 5
+* 글머리 기호 6
+저<mecab>는 새로운 강아지 주인<mecab>이<mecab>고 제 강아지<mecab>를 훈련<mecab>시키<mecab>는 방법<mecab>에 대한 조언<mecab>을 찾<mecab>고 있<mecab>습니다<mecab>. 도와<mecab>주<mecab>실 수 있<mecab>나요<mecab>? 몇 가지 옵션<mecab>을 주<mecab>세요<mecab>. 특히, 당신<mecab>의 응답<mecab>을 "어떤 것<mecab>을 선택<mecab>하<mecab>시<mecab>겠<mecab>습니까<mecab>?"<mecab>로 끝내<mecab>주<mecab>셨<mecab>으면 합니다<mecab>.
+다음 요청<mecab>에 답변<mecab>하<mecab>기 전<mecab>에 요청<mecab>을 답변의 맨 처음<mecab>에 반복<mecab>하<mecab>십시오<mecab>. 요청<mecab>을 그대로 반복<mecab>하<mecab>십시오<mecab>. 변경<mecab>하<mecab>지 마십시오<mecab>.
+
+주니어 하드웨어 엔지니어<mecab>를 위한 이력서<mecab>를 작성<mecab>하<mecab>십시오<mecab>. 이력서<mecab>는 그<mecab>들<mecab>이 대기업<mecab>에서 일자리<mecab>를 얻<mecab>기에 충분히 좋<mecab>아야 하<mecab>며 쉼표<mecab>를 포함<mecab>해서<mecab>는 안 됩니다<mecab>.
+양귀비 씨앗의 용도<mecab>는 무엇인가요<mecab>? 당신<mecab>의 대답<mecab>은 정확히 7개의 단락<mecab>으로 구성<mecab>되<mecab>어야 하<mecab>며, 마지막 단락<mecab>은 "요약"<mecab>이<mecab>라는 단어<mecab>로 시작<mecab>해야 합니다<mecab>. 각 단락<mecab>은 두 개의 줄 바꿈<mecab>으로 구분<mecab>되<mecab>어야 합니다<mecab>.
+IBM의 1956년 체스 프로그램<mecab>에 대한 리뷰<mecab>를 작성<mecab>하<mecab>세요<mecab>. 전체 응답<mecab>이 큰따옴표<mecab>로 감싸져 있<mecab>는지 확인<mecab>하<mecab>세요<mecab>.
+지역 코미디 쇼<mecab>를 위한 재미있<mecab>는 태그라인<mecab>을 만들<mecab>어 보<mecab>세요, 그리고 전체 응답<mecab>을 큰따옴표 안<mecab>에 넣<mecab>으세요<mecab>.
+아이<mecab>들<mecab>이 왜 많<mecab>은 사탕<mecab>을 먹<mecab>지 말<mecab>아야 하<mecab>는지<mecab>에 대한 재미있<mecab>는 노래 스타일의 시<mecab>를 써<mecab>주<mecab>세요<mecab>. 이 시<mecab>는 네 개의 섹션<mecab>으로 구성<mecab>되<mecab>어야 하<mecab>며, 각 섹션<mecab>은 "섹션 X"<mecab>으로 표시<mecab>되<mecab>어야 합니다<mecab>.
+북극의 날씨<mecab>는 일 년 대부분 매우 추운가요<mecab>? 전체 응답<mecab>에서 '예' 또는 '아니<mecab>오'<mecab>라고 말<mecab>하<mecab>지 마십시오<mecab>.
+최소 5문장<mecab>으로 농담<mecab>을 작성<mecab>하<mecab>세요<mecab>. 답변<mecab>에서 최소 2개 섹션<mecab>을 *이탤릭체*<mecab>로 표시<mecab>하<mecab>기 위해 Markdown<mecab>을 사용<mecab>하<mecab>세요<mecab>. 답변<mecab>을 큰따옴표<mecab>로 감싸<mecab>세요<mecab>.
+타이탄<mecab>은 큰 남성<mecab>을 위한 의류<mecab>를 만듭니다<mecab>. 회사<mecab>에 대한 광고<mecab>를 작성<mecab>하<mecab>여 폭넓<mecab>은 청중<mecab>에게 어필<mecab>하<mecab>세요<mecab>. 문장<mecab>은 짧<mecab>게 하<mecab>세요<mecab>. 귀하<mecab>의 응답<mecab>에<mecab>는 쉼표<mecab>가 포함<mecab>되<mecab>어서<mecab>는 안 됩니다<mecab>. 첫 번<mecab>째<mecab>로 요청<mecab>을 단어 그대로 반복<mecab>한 다음 답변<mecab>을 제시<mecab>하<mecab>세요<mecab>. 요청<mecab>은 첫 번<mecab>째 줄<mecab>의 처음 네 문장<mecab>만 포함<mecab>되<mecab>어야 합니다<mecab>.
+심리학자<mecab>는 사람<mecab>들<mecab>의 행동<mecab>과 정신 과정<mecab>을 조사<mecab>하<mecab>는 전문가입니다<mecab>. 심리학자<mecab>에 대해 더 말씀<mecab>해 주실 수 있<mecab>나요<mecab>? 100<mecab>에서 120단어<mecab>로 대답<mecab>해 주<mecab>세요<mecab>.
+소년 구금의 장단점<mecab>에 대한 표<mecab>를 제공<mecab>해 주실 수 있<mecab>나요<mecab>? 끝<mecab>에 P.S.<mecab>로 시작<mecab>하<mecab>는 추신<mecab>을 추가<mecab>해 주<mecab>세요<mecab>.
+반지의 제왕<mecab>에 대한 간단<mecab>한 요약<mecab>을 어린이 친화<mecab>적<mecab>이<mecab>게 해줄 수 있<mecab>나요<mecab>? 먼저, "<mecab>반지의 제왕<mecab>에 대한 간단<mecab>한 요약<mecab>을 어린이 친화<mecab>적<mecab>이<mecab>게 해줄 수 있<mecab>나요<mecab>?"라는 문장<mecab>을 변경 없이 그대로 반복<mecab>한 다음, 당신<mecab>의 대답<mecab>을 해<mecab>주<mecab>세요<mecab>. 먼저 아무 말<mecab>도 하<mecab>지 말<mecab>고, 요청<mecab>을 처음<mecab>에 그대로 반복<mecab>하<mecab>세요<mecab>.
+몽구스<mecab>에 대한 수수께끼<mecab>를 작성<mecab>하<mecab>되 정확히 하나의 글머리 기호<mecab>를 포함<mecab>하<mecab>세요<mecab>. 다음<mecab>과 같<mecab>은 몇 개의 글머리 기호가 포함<mecab>되<mecab>도록 하<mecab>세요: 
+* 글머리 기호
+좋<mecab>은 밤잠<mecab>을 자<mecab>는 최고의 방법<mecab>에 대해 최소 400단어<mecab>로 블로그 포스트<mecab>를 작성<mecab>하<mecab>세요<mecab>.
+2000년 대통령 선거<mecab>에 대한 200단어 에세이<mecab>를 작성<mecab>하<mecab>십시오<mecab>. 제목<mecab>은 이중 각괄호<mecab>로 감싸<mecab>야 합니다, 즉 <<제목>>입니다<mecab>.
+엄마<mecab>들<mecab>을 위한 랩<mecab>을 써라, 모유 수유<mecab>와 분유의 장단점<mecab>에 대해<mecab>. 랩 노래<mecab>는 정확히 3개의 단락<mecab>으로 구성<mecab>되<mecab>어야 하<mecab>며, 각 단락<mecab>은 ***<mecab>로 구분<mecab>되<mecab>어야 하<mecab>고, 마크다운 형식<mecab>으로 정확히 3개의 글머리 기호가 있<mecab>어야 한다<mecab>.
+국세청<mecab>에서 일<mecab>하<mecab>는 남자<mecab>에 대한 짧<mecab>고 재미있<mecab>는 농담<mecab>을 작성<mecab>하<mecab>세요<mecab>. 대괄호<mecab>로 표시<mecab>된 최소한 하나의 자리 표시<mecab>자<mecab>를 포함<mecab>하<mecab>세요<mecab>.
+새로운 대학 과정 개<mecab>가 들려주<mecab>는 세계의 역사<mecab>에 대한 제안서<mecab>를 작성<mecab>하<mecab>십시오<mecab>. 제안서<mecab>에<mecab>는 반드시 '포식자'라는 단어<mecab>가 두 번 이상 등장<mecab>해야 합니다<mecab>.
+재림교와 침례교의 주요 차이점<mecab>은 무엇인가요<mecab>? 귀하<mecab>의 응답<mecab>은 20문장 미만<mecab>이<mecab>어야 하<mecab>며, [주소]<mecab>와 같<mecab>은 대괄호<mecab>로 표시<mecab>된 3개의 자리 표시<mecab>자<mecab>를 포함<mecab>해야 합니다<mecab>.
+새로운 개 장난감 라인인 "더 스퀴커"<mecab>에 대한 제품 설명<mecab>을 작성<mecab>하<mecab>세요<mecab>. 이 장난감<mecab>은 라텍스 소재<mecab>로 만들<mecab>어졌으며, 모든 연령<mecab>과 종의 개<mecab>를 위해 설계<mecab>되<mecab>었<mecab>습니다<mecab>. 또한 다양<mecab>한 색상<mecab>과 형태<mecab>로 제공<mecab>됩니다<mecab>. 응답<mecab>에<mecab>는 [주소], [이름], [전화번호]<mecab>와 같<mecab>은 3개의 자리 표시<mecab>자<mecab>가 포함<mecab>되<mecab>어야 합니다<mecab>.
+카리나 카푸르<mecab>가 좋<mecab>은 배우라고 생각<mecab>하<mecab>나요<mecab>? 당신<mecab>의 대답<mecab>을 큰따옴표<mecab>로 감싸<mecab>세요<mecab>.
+학생<mecab>들<mecab>에게 수업/강의<mecab>를 할 때, "다른 글꼴<mecab>을 사용<mecab>해야 합니다<mecab>."<mecab>를 수동 공격<mecab>적인 어조<mecab>로 다시 작성<mecab>하<mecab>세요<mecab>.
+
+먼저 첫 번<mecab>째 줄<mecab>을 단어 그대로 변경<mecab>하<mecab>지 않<mecab>고 반복<mecab>한 다음, 답변<mecab>을 제시<mecab>하<mecab>세요<mecab>. 절대 첫 번<mecab>째 줄 앞<mecab>에 어떤 단어<mecab>도 말<mecab>하<mecab>지 마세요<mecab>.
+개 훈련사가 개<mecab>에게 앉<mecab>기, 기다리<mecab>기, 물<mecab>어오<mecab>기 가르치<mecab>는 방법<mecab>에 대한 지침 목록<mecab>을 작성<mecab>하<mecab>세요<mecab>. 목록<mecab>에<mecab>는 다음<mecab>과 같<mecab>은 마크다운 형식<mecab>으로 정확히 3개의 글머리<mecab>가 포함<mecab>되<mecab>어야 합니다:
+* 글머리 1
+* 글머리 2
+여기 특정 유형의 박테리아<mecab>에 대한 VHF 라디오파의 효과<mecab>에 관한 연구 논문의 요약<mecab>이 있<mecab>습니다: "우리<mecab>의 결과<mecab>는 VHF 라디오파<mecab>가 박테리아의 성장<mecab>에 영향<mecab>을 미치<mecab>지 않<mecab>는다는 것<mecab>을 보여줍니다<mecab>." 이 요약<mecab>을 APA 형식<mecab>을 사용<mecab>하<mecab>여 더 공식<mecab>적인 방식<mecab>으로 다시 작성<mecab>하<mecab>는 데 도움<mecab>을 줄 수 있<mecab>습니까<mecab>? "우리<mecab>의" 또는 "있<mecab>다"라는 단어<mecab>는 사용<mecab>하<mecab>지 마십시오<mecab>.
+고객<mecab>이 제품<mecab>에 새로운 기능<mecab>을 구현<mecab>하<mecab>는 데 관심<mecab>이 있<mecab>는 경우 학술 제안서<mecab>를 작성<mecab>하<mecab>십시오<mecab>. 전체 응답<mecab>에 이중 인용부호<mecab>를 넣<mecab>으십시오<mecab>.
+엄마<mecab>들<mecab>을 위한 판매 프레젠테이션<mecab>이 필요<mecab>합니다<mecab>. 이<mecab>는 아기<mecab>에게 더 편안<mecab>하<mecab>게 설계<mecab>된 새로운 종류의 기저귀<mecab>에 대한 것입니다<mecab>. 판매 프레젠테이션<mecab>은 500단어 길이<mecab>로, 재미있<mecab>고, 매력<mecab>적<mecab>이<mecab>며, 가격<mecab>을 언급<mecab>하<mecab>지 않<mecab>고 새로운 기저귀의 이점<mecab>에 초점<mecab>을 맞춰야 합니다<mecab>. 또한 제목<mecab>이 포함<mecab>되<mecab>어야 하<mecab>며, 제목<mecab>은 이중 각괄호<mecab>로 감싸<mecab>야 합니다<mecab>. 즉, <<제목>> 형식입니다<mecab>.
+이 텍스트<mecab>를 이상<mecab>하<mecab>게 만들<mecab>어 보<mecab>세요: "앱의 새로운 버전<mecab>이 곧 App Store<mecab>에서 제공<mecab>될 것입니다<mecab>. 새로운 사용자 인터페이스<mecab>와 새로운 장치<mecab>에 대한 지원<mecab>을 포함<mecab>하<mecab>여 여러 가지 새로운 기능<mecab>이 포함<mecab>될 것입니다<mecab>." 쉼표<mecab>는 사용<mecab>하<mecab>지 마세요<mecab>. 답변<mecab>에서 최소 2개의 섹션<mecab>을 마크다운<mecab>으로 강조<mecab>하<mecab>세요 즉 *강조<mecab>된 섹션*.
+문장<mecab>을 다시 작성<mecab>하<mecab>세요: "나<mecab>는 내 증오<mecab>를 타오르<mecab>는 불 속<mecab>으로 던졌<mecab>다<mecab>." 당신<mecab>의 전체 응답<mecab>을 큰따옴표 안<mecab>에 넣<mecab>으세요<mecab>.
+첫 번<mecab>째 인공 아이스링크<mecab>를 누가 만들<mecab>었<mecab>나요<mecab>? 다음 키<mecab>를 포함<mecab>해 주<mecab>세요: (1) 이름 (2) 위치 및 (3) 연도<mecab>. 150단어 이하로 작성<mecab>해 주<mecab>세요<mecab>.
+직장<mecab>에서 다양성의 중요<mecab>성<mecab>에 대한 워크숍 템플릿<mecab>을 작성<mecab>하<mecab>고, 최소 3개의 섹션<mecab>을 마크다운<mecab>으로 강조 표시<mecab>하<mecab>십시오<mecab>. 즉, *강조<mecab>된 섹션*.
+배열<mecab>에서 요소의 오프셋<mecab>을 계산<mecab>하<mecab>는 방법<mecab>에 대한 7문장 이하의 템플릿<mecab>을 작성<mecab>하<mecab>세요<mecab>.
+다변량 분석<mecab>이란 무엇인가요<mecab>? 답변<mecab>을 일반 대중<mecab>이 이해<mecab>할 수 있<mecab>도록 다시 작성<mecab>해 주<mecab>세요<mecab>. 답변<mecab>은 "제<mecab>가 도와드릴 수 있<mecab>는 다른 것<mecab>이 있<mecab>나요<mecab>?"<mecab>로 끝나야 하<mecab>며, 이 문장 뒤<mecab>에 다른 단어<mecab>는 오<mecab>지 않<mecab>아야 합니다<mecab>.
+나<mecab>는 골든 리트리버<mecab>와 푸들<mecab>을 가지<mecab>고 있<mecab>다<mecab>. 푸<mecab>들<mecab>이 골든 리트리버<mecab>보다 더 큰가<mecab>? 다음 중<mecab>에서 선택<mecab>하<mecab>세요: ('내 대답<mecab>은 예입니다<mecab>.', '내 대답<mecab>은 아니요입니다<mecab>.', '내 대답<mecab>은 아마도입니다<mecab>.') -- 응답<mecab>에 정확<mecab>한 문구<mecab>를 포함<mecab>해 주<mecab>세요<mecab>.
+11개의 결과<mecab>는 평균 51입니다<mecab>. 처음 다섯 개<mecab>는 평균 49<mecab>이<mecab>고, 마지막 아홉 개<mecab>는 평균 52입니다<mecab>. 여섯 번<mecab>째 결과<mecab>는 무엇<mecab>이<mecab>었<mecab>나요<mecab>? 수학 기호<mecab>를 사용<mecab>하<mecab>여 설명<mecab>할 때 이상한 언어<mecab>를 사용<mecab>하<mecab>세요<mecab>. 그리고 끝<mecab>에 P.P.S<mecab>로 시작<mecab>하<mecab>는 추신<mecab>을 추가<mecab>하<mecab>세요<mecab>.
+햄프턴스에 대해 이야기<mecab>해 주실 수 있<mecab>나요<mecab>? 당신<mecab>의 대답<mecab>은 최소 300단어 이상<mecab>이<mecab>어야 하<mecab>며, [주소]<mecab>와 같<mecab>은 대괄호<mecab>로 표시<mecab>된 최소 3개의 자리 표시<mecab>자<mecab>를 포함<mecab>해야 하<mecab>고, 다음<mecab>과 같<mecab>은 마크다운 글머리 기호<mecab>를 사용<mecab>하<mecab>여 정확히 2개의 글머리 기호<mecab>를 포함<mecab>해야 합니다:
+* 글머리 기호 1
+* 글머리 기호 2
+브리치 포스터리어<mecab>는 암 치료제<mecab>를 보유<mecab>한 스타트업입니다<mecab>. 엄마<mecab>들<mecab>을 대상<mecab>으로 한 캐주얼<mecab>한 피치 덱<mecab>을 작성<mecab>하<mecab>세요<mecab>. "<mecab>명확<mecab>하<mecab>게"라는 단어<mecab>를 최소 2번 사용<mecab>해야 합니다<mecab>.
+약혼<mecab>에 대한 재미없<mecab>는 농담<mecab>을 전적<mecab>으로 스와힐리어<mecab>로 작성<mecab>하<mecab>세요<mecab>. 다른 언어<mecab>는 허용<mecab>되<mecab>지 않<mecab>습니다<mecab>.
+외부 태양계<mecab>가 내부 태양계<mecab>와 어떻<mecab>게 다른지, 그리고 그것<mecab>이 생명 가능<mecab>성<mecab>에 어떤 의미<mecab>가 있<mecab>는지<mecab>에 대한 캐주얼<mecab>한 블로그 포스트<mecab>를 작성<mecab>하<mecab>세요<mecab>. 전체 응답<mecab>을 이중 따옴표<mecab>로 감싸<mecab>세요<mecab>. 응답<mecab>은 17문장 이상<mecab>이<mecab>어야 합니다<mecab>.
+미국 대통령인 것<mecab>처럼 에세이<mecab>를 작성<mecab>하<mecab>되, 청중<mecab>은 엄마<mecab>들<mecab>로 설정<mecab>하<mecab>세요<mecab>. 주제<mecab>는 영화 그것<mecab>의 풍선<mecab>이 1950년대의 정신<mecab>을 어떻<mecab>게 상징<mecab>하<mecab>는지입니다<mecab>. 응답<mecab>에<mecab>는 [주소]<mecab>와 같<mecab>은 대괄호<mecab>로 표시<mecab>된 최소 1개의 자리 표시<mecab>자<mecab>가 포함<mecab>되<mecab>어야 합니다<mecab>.
+먼저 아래 요청<mecab>을 단어 하나하나 바꾸<mecab>지 않<mecab>고 그대로 반복<mecab>한 다음, 당신<mecab>의 대답<mecab>을 하<mecab>세요<mecab>.
+요청<mecab>을 반복<mecab>하<mecab>기 전<mecab>에 어떤 단어<mecab>나 문자<mecab>도 말<mecab>하<mecab>지 마세요<mecab>.
+
+검<mecab>은 개<mecab>를 위한 좋<mecab>은 이름<mecab>을 지<mecab>어<mecab>주<mecab>세요<mecab>. 당신<mecab>의 대답<mecab>은 이중 각괄호<mecab>로 감싸인 제목<mecab>을 포함<mecab>해야 합니다<mecab>.
+목요일<mecab>과 통합<mecab>이<mecab>라는 단어<mecab>가 들어간 농담<mecab>을 해<mecab>보<mecab>세요<mecab>. 하<mecab>지만 스와힐리어<mecab>만 사용<mecab>해야 하<mecab>며, 다른 언어<mecab>는 허용<mecab>되<mecab>지 않<mecab>습니다<mecab>.
+왜 32그램의 무염 아몬드 1회 제공량<mecab>에 396칼로리<mecab>가 있<mecab>나요<mecab>? 응답<mecab>에 쉼표<mecab>를 사용<mecab>하<mecab>지 마세요<mecab>.
+검<mecab>은색<mecab>과 흰색 개<mecab>를 위한 이름<mecab>을 정확히 3개 이름<mecab>으로 명시<mecab>하<mecab>시<mecab>오<mecab>. 마크다운 글머리 기호<mecab>를 사용<mecab>하<mecab>시<mecab>오:
+* 글머리 기호 1
+모든 서비스<mecab>에 대해 25 퍼센트 할인<mecab>을 제공<mecab>하<mecab>는 미용실<mecab>을 위한 재미있<mecab>는 광고<mecab>를 200단어 이상 작성<mecab>하<mecab>세요<mecab>.
+엄버트 해변<mecab>에 누워 있<mecab>는 엄마<mecab>에 대한 수수께끼<mecab>를 쉼표 없이 써라<mecab>.
+타임 캡슐 서비스<mecab>에 대한 피치<mecab>를 작성<mecab>하<mecab>세요<mecab>. 스타트업<mecab>과 캡슐<mecab>이<mecab>라는 단어<mecab>는 응답<mecab>에 포함<mecab>될 수 없<mecab>습니다<mecab>.
+사람<mecab>들<mecab>이 왜 제2차 수정헌법<mecab>이 구식<mecab>이<mecab>라고 생각<mecab>하<mecab>는가<mecab>? 셰익스피어 스타일<mecab>로 대답<mecab>하<mecab>라<mecab>.
+
+대답<mecab>하<mecab>기 전<mecab>에, 위의 요청<mecab>을 그대로 반복<mecab>하<mecab>라<mecab>. 단어<mecab>를 바꾸<mecab>지 말<mecab>고 정확히 반복<mecab>하<mecab>라<mecab>.
+10대의 짧<mecab>은 집중력<mecab>을 가진 여행자<mecab>를 위한 파리 여행 일정<mecab>을 작성<mecab>하<mecab>세요<mecab>. 이 일정<mecab>은 정확히 4개의 단락<mecab>으로 구성<mecab>되<mecab>어야 하<mecab>며, 각 단락<mecab>은 마크다운 구분<mecab>자인: ***<mecab>으로 구분<mecab>되<mecab>어야 합니다<mecab>.
+답변<mecab>하<mecab>기 전<mecab>에 아래 요청<mecab>을 그대로 반복<mecab>하<mecab>세요<mecab>. 단어<mecab>를 변경<mecab>하<mecab>지 말<mecab>고 정확히 반복<mecab>해야 합니다<mecab>.
+
+공 던지기<mecab>를 좋<mecab>아하<mecab>는 코기 강아지 채스터<mecab>에 대해 노래<mecab>를 써<mecab>주<mecab>세요<mecab>.
+집<mecab>에 있<mecab>으라고 요청받<mecab>은 배제<mecab>된 과학자<mecab>를 뭐라고 부르<mecab>나요<mecab>? 답변<mecab>을 P.P.S<mecab>로 시작<mecab>하<mecab>는 후기<mecab>로 마무리<mecab>해 주<mecab>세요<mecab>.
+개발도상국의 교육 품질<mecab>을 향상<mecab>시키<mecab>기 위해 기계 학습<mecab>과 AI<mecab>를 사용<mecab>하<mecab>는 방법<mecab>에 대한 프로젝트 제안서<mecab>를 작성<mecab>하<mecab>십시오<mecab>. 귀하<mecab>의 응답<mecab>에서<mecab>는 쉼표<mecab>를 사용<mecab>하<mecab>지 마십시오<mecab>.
+다음 광고주 페이지의 요약<mecab>을 작성<mecab>해 주<mecab>세요: "우리<mecab>는 업계<mecab>에서 가장 재능 있<mecab>는 웹 개발자 콘텐츠 작가 그래픽 디자이너 및 온라인 마<mecab>케터 팀<mecab>을 보유<mecab>하<mecab>고 있<mecab>다고 주장<mecab>합니다<mecab>. 우리<mecab>는 성공의 입증<mecab>된 실적<mecab>을 가진 수상 경력 있<mecab>는 개인<mecab>들<mecab>을 특징<mecab>으로 합니다<mecab>." 마크다운<mecab>을 사용<mecab>하<mecab>고 엄마<mecab>들<mecab>을 대상<mecab>으로 하<mecab>세요<mecab>. 귀하<mecab>의 답변<mecab>은 마크다운 형식<mecab>으로 정확히 4개의 글머리 기호<mecab>를 포함<mecab>해야 하<mecab>며 쉼표<mecab>를 포함<mecab>할 수 없<mecab>습니다<mecab>.
+지역 정당<mecab>에 커버 레터<mecab>를 작성<mecab>하<mecab>여 그<mecab>들<mecab>의 집회 조직자<mecab>가 되<mecab>어 달<mecab>라고 요청<mecab>하<mecab>세요<mecab>. 답변<mecab>에서 최소 3개의 섹션<mecab>을 마크다운 형식<mecab>으로 강조<mecab>하<mecab>는 것<mecab>을 잊<mecab>지 마세요<mecab>.
+벼룩시장<mecab>에 대한 페이스북 게시물<mecab>을 JSON 형식<mecab>으로 작성<mecab>하<mecab>세요<mecab>. 응답<mecab>에 '벼룩'<mecab>과 'JSON' 키워드<mecab>를 포함<mecab>하<mecab>지 마세요<mecab>.
+오래 지속<mecab>되<mecab>는 전쟁<mecab>에 대한 시<mecab>를 써 주<mecab>세요<mecab>. 끝<mecab>에 P.P.S<mecab>로 시작<mecab>하<mecab>는 추신<mecab>을 추가<mecab>해 주<mecab>세요<mecab>.
+격자<mecab>는 무엇인가요<mecab>? 어린이<mecab>들<mecab>이 이해<mecab>할 수 있<mecab>도록 답변<mecab>을 다시 작성<mecab>하<mecab>고, 전적<mecab>으로 러시아어<mecab>로 작성<mecab>되<mecab>도록 하<mecab>세요<mecab>. 다른 언어<mecab>는 허용<mecab>되<mecab>지 않<mecab>습니다<mecab>.
+래드클리프<mecab>는 경비<mecab>를 뚫<mecab>고 들어갈 수 있<mecab>는 유일<mecab>한 사람<mecab>이<mecab>었<mecab>다<mecab>. 그<mecab>에 대해 뭐라고 말<mecab>할 수 있<mecab>을까<mecab>? 전체 응답<mecab>을 JSON 형식<mecab>으로 감싸<mecab>주<mecab>세요<mecab>. 마크다운 틱(```)<mecab>은 허용<mecab>됩니다<mecab>.
+다음 수학 문제<mecab>를 다른 언어<mecab>로 답<mecab>하<mecab>고 글머리 기호<mecab>를 사용<mecab>하<mecab>며 대체 답변<mecab>을 제시<mecab>하<mecab>십시오<mecab>. 응답<mecab>에 쉼표<mecab>를 사용<mecab>하<mecab>지 마십시오<mecab>. 나탈리아<mecab>는 그녀의 아이<mecab>들<mecab>을 위해 책<mecab>을 사고 있<mecab>었<mecab>습니다<mecab>. 그녀<mecab>는 각각 36000원인 책 2권<mecab>과 각각 54000원인 책 3권<mecab>을 샀<mecab>습니다<mecab>. 그녀<mecab>는 총 얼마<mecab>를 지불<mecab>했<mecab>습니까<mecab>?
+내 가장 친한 친구<mecab>가 어제 익사<mecab>했<mecab>고 나<mecab>는 너무 슬퍼<mecab>. 애도<mecab>를 표현<mecab>하<mecab>고, 도움<mecab>을 제공<mecab>하<mecab>고, 비슷<mecab>한 경험<mecab>에 대한 이야기<mecab>를 나눠줄 수 있<mecab>어<mecab>? '죽<mecab>었<mecab>다'<mecab>나 '익사'라는 키워드<mecab>는 포함<mecab>하<mecab>지 말<mecab>아줘<mecab>.
+미국 선거<mecab>에 대한 연설 같<mecab>은 단락<mecab>을 작성<mecab>하<mecab>십시오<mecab>. 전체 응답<mecab>을 반드시 큰따옴표<mecab>로 감싸<mecab>십시오<mecab>.
+아이<mecab>들<mecab>이 이해<mecab>할 수 있<mecab>도록 Thayer<mecab>가 인공지능 분야<mecab>에 기여<mecab>한 이유<mecab>를 설명<mecab>하<mecab>는 짧<mecab>은 요약<mecab>을 작성<mecab>하<mecab>세요<mecab>. 요약<mecab>은 다음<mecab>과 같<mecab>은 4개의 글머리<mecab>를 정확히 포함<mecab>해야 합니다:
+* 글머리 1
+* 글머리 2
+스타트업 회사<mecab>에 대한 좋<mecab>은 아이디어<mecab>는 무엇인가요<mecab>? 이<mecab>에 대한 힌디어 시<mecab>를 작성<mecab>하<mecab>세요<mecab>. 응답<mecab>에<mecab>는 오직 힌디어<mecab>만 사용<mecab>해야 하<mecab>며, 다른 언어<mecab>는 허용<mecab>되<mecab>지 않<mecab>습니다<mecab>.
+새로운 시간<mecab>대<mecab>는 UTC+00:05:28<mecab>로, UTC<mecab>보다 5분 28초 빠릅니다<mecab>. "시간"<mecab>이<mecab>라는 단어<mecab>를 포함<mecab>하<mecab>고 기억<mecab>하<mecab>기 쉽<mecab>고 재미있<mecab>는 이름<mecab>을 지<mecab>어줄 수 있<mecab>나요<mecab>? 먼저 요청<mecab>을 변경<mecab>하<mecab>지 않<mecab>고 그대로 반복<mecab>한 다음, 답변<mecab>을 주세요 (노트: 1<mecab>. 요청<mecab>을 반복<mecab>하<mecab>기 전<mecab>에 어떤 단어<mecab>나 문자<mecab>를 말<mecab>하<mecab>지 마세요; 2<mecab>. 반복<mecab>해야 할 요청<mecab>은 이 문장<mecab>을 포함<mecab>하<mecab>지 않<mecab>습니다)
+심연<mecab>에 대한 랩<mecab>을 정확히 4개의 단락<mecab>으로 작성<mecab>하<mecab>세요<mecab>. 단락<mecab>은 마크다운 구분 기호<mecab>로 구분<mecab>하<mecab>세요: ***.
+일본의 현 제도 역사<mecab>에 대한 랩 곡<mecab>을 쓸 수 있<mecab>나요<mecab>? 6개의 별표 기호 ******<mecab>로 구분<mecab>된 정확히 두 가지 다른 응답<mecab>을 주<mecab>세요<mecab>.
+미국 대통령<mecab>이 스트레스<mecab>를 받<mecab>는 것<mecab>에 대한 대학 학술 논문<mecab>을 작성<mecab>하<mecab>세요<mecab>. '슬픔', '미친', '스트레스'<mecab>와 같<mecab>은 부정<mecab>적인 단어<mecab>는 응답<mecab>에 포함<mecab>하<mecab>지 않<mecab>도록 하<mecab>세요<mecab>. 또한, [주소]<mecab>와 같<mecab>은 대괄호<mecab>로 표시<mecab>된 최소 15개의 자리 표시<mecab>자<mecab>를 포함<mecab>해야 합니다<mecab>.
+ISIL<mecab>과 미국 간의 최근 갈등<mecab>에 대한 TLDR<mecab>를 대화<mecab>형 글머리<mecab>로 작성<mecab>하<mecab>세요<mecab>. 응답<mecab>을 다음<mecab>과 같<mecab>은 정확<mecab>한 문구<mecab>로 끝내<mecab>세요: "추가 질문<mecab>이 있<mecab>으면 알려<mecab>주<mecab>세요<mecab>." 이 문구 뒤<mecab>에<mecab>는 다른 단어<mecab>가 오<mecab>지 않<mecab>아야 합니다<mecab>.
+다음 문장<mecab>을 특이<mecab>한 스타일<mecab>로 다시 작성<mecab>하<mecab>십시오: "그러나 그 땅의 사람<mecab>들<mecab>이 블레셋 사람<mecab>들<mecab>이 도망쳤<mecab>다는 것<mecab>을 알<mecab>게 되<mecab>었<mecab>을 때, 그<mecab>들<mecab>은 사울<mecab>을 떠나 다윗<mecab>을 쫓아갔<mecab>다<mecab>." 요청<mecab>을 위<mecab>와 같이 단어 하나<mecab>도 변경<mecab>하<mecab>지 않<mecab>고 반복<mecab>하<mecab>세요<mecab>. 그런 다음 답변<mecab>을 작성<mecab>하<mecab>세요<mecab>. 위 요청<mecab>이 반복<mecab>되<mecab>기 전<mecab>까지 어떤 단어<mecab>도 출력<mecab>해선 안됩니다<mecab>. 
+다음 문장<mecab>을 미국 대통령<mecab>과 유사<mecab>한 진지<mecab>한 어조<mecab>로, 상향 편향<mecab>이나 인플레이션 경고주의 없이 다시 작성<mecab>해 주<mecab>십시오<mecab>. 또한 문장<mecab>에 "잉크"<mecab>와 "회고록"<mecab>이<mecab>라는 키워드<mecab>를 포함<mecab>해 주십시오: "고려<mecab>해야 할 주요 사항<mecab>은 다음<mecab>과 같<mecab>습니다: 첫째, 현재 강한 상향 편향<mecab>을 가진 ECB의 자체 예측<mecab>은 하향 조정<mecab>되<mecab>어야 합니다<mecab>. 둘째, ECB<mecab>는 현재 일부<mecab>에서 퍼지<mecab>고 있<mecab>는 인플레이션 경고주의<mecab>에 영향<mecab>을 받<mecab>아서<mecab>는 안 됩니다<mecab>."
+기디온<mecab>은 올해 농장<mecab>에서 수확<mecab>한 농작물<mecab>이 남아도<mecab>는 농부입니다<mecab>. 그<mecab>는 그 잉여 농작물<mecab>로 무엇<mecab>을 할 수 있<mecab>을까요<mecab>? 당신<mecab>의 답변<mecab>에서 적어도 하나의 섹션<mecab>을 마크다운<mecab>으로 강조<mecab>하<mecab>세요, 즉 *강조<mecab>된 섹션*.
+당신<mecab>을 자극<mecab>하<mecab>는 것<mecab>에 대해 친구<mecab>에게 이메일<mecab>을 작성<mecab>하<mecab>세요<mecab>. 전체 이메일<mecab>을 큰따옴표<mecab>로 감싸<mecab>는 것<mecab>을 잊<mecab>지 마세요<mecab>.
+다음 문장<mecab>을 독일어<mecab>로 번역<mecab>한 후 비판<mecab>하<mecab>십시오: 베르너<mecab>는 내 좋<mecab>은 친구였<mecab>지만, 그리 똑똑<mecab>하<mecab>지<mecab>는 않<mecab>았<mecab>다<mecab>.
+응답 전반<mecab>에 걸쳐 "schlau"라는 단어<mecab>를 피하<mecab>십시오<mecab>.
+유럽<mecab>의 선사 시대 거석<mecab>들<mecab>은 어떻<mecab>게 생겼<mecab>나요<mecab>? 정확히 두 가지 다른 응답<mecab>을 주<mecab>시<mecab>고, 6개의 별표 기호<mecab>로 구분<mecab>해 주<mecab>세요: ******. 'BC', '문화', '선사시대'라는 키워드<mecab>는 응답<mecab>에 포함<mecab>하<mecab>지 마세요<mecab>.
+16세 소년의 평균 IQ<mecab>는 얼마인가요<mecab>? 당신<mecab>의 대답<mecab>에<mecab>는 '구성<mecab>된'<mecab>이<mecab>라는 단어<mecab>가 최소한 1회 나타나<mecab>야 하<mecab>며 쉼표<mecab>는 사용<mecab>하<mecab>지 마세요<mecab>.
+작<mecab>은 것<mecab>부터 큰 것<mecab>까지 다양<mecab>한 동물 표본의 평균 길이<mecab>를 나열<mecab>하<mecab>는 단락<mecab>을 작성<mecab>하<mecab>세요<mecab>. 귀하<mecab>의 응답<mecab>은 17문장 미만<mecab>이<mecab>어야 합니다<mecab>.
+로드니라는 젤다 팬<mecab>에 대한 리머릭<mecab>을 작성<mecab>하<mecab>세요<mecab>. 다음 항목<mecab>들<mecab>을 포함<mecab>해야 합니다: 젤다, 하이랄, 링크, 가논<mecab>. 100단어 이하로 작성<mecab>하<mecab>세요<mecab>.
+외로운 휴<mecab>에 대한 시<mecab>를 써<mecab>주<mecab>세요<mecab>. 이 시<mecab>는 십대<mecab>들<mecab>을 위해 쓰여야 합니다<mecab>. 당신<mecab>의 시<mecab>에서 최소한 한 부분<mecab>을 마크다운<mecab>으로 기울임<mecab>꼴<mecab>로 작성<mecab>하<mecab>고, 즉 *이것<mecab>은 기울임꼴 텍스트입니다*<mecab>라고 하<mecab>고, "싱글"라는 단어<mecab>를 최소한 두 번 포함<mecab>하<mecab>세요<mecab>.
+툴사<mecab>는 전문 개 산책<mecab>가입니다<mecab>. 툴사의 일상<mecab>적인 업무<mecab>에 대한 설명<mecab>을 작성<mecab>하<mecab>세요<mecab>. 전체 응답<mecab>이 6문장 미만<mecab>이 되<mecab>도록 하<mecab>세요<mecab>.
+멜버른<mecab>에<mecab>는 헤럴드 선<mecab>이<mecab>라는 신문<mecab>이 있<mecab>습니다<mecab>. 멜버른 십대<mecab>들<mecab>을 위한 새로운 신문 이름<mecab>을 제안<mecab>해 주실 수 있<mecab>나요<mecab>? 답변의 끝<mecab>에 P.S.<mecab>로 시작<mecab>하<mecab>는 후기<mecab>를 포함<mecab>해 주<mecab>세요<mecab>.
+맥퀸<mecab>에게 재미있<mecab>는 메모<mecab>를 작성<mecab>하<mecab>세요, <br><mecab>로 줄<mecab>을 구분<mecab>하<mecab>세요<mecab>. 재미있<mecab>는 인사말<mecab>로 시작<mecab>하<mecab>고 메모<mecab>에 수학 기호<mecab>를 포함<mecab>하<mecab>세요<mecab>. 응답의 끝<mecab>에 P.P.S<mecab>로 시작<mecab>하<mecab>는 후기<mecab>를 명시<mecab>적<mecab>으로 추가<mecab>하<mecab>세요<mecab>.
+미국<mecab>의 출산 휴가 정책<mecab>에 대한 캐주얼<mecab>한 요약<mecab>을 두 개의 섹션(섹션 1 및 섹션 2)<mecab>으로 작성<mecab>하<mecab>고 최소 25문장<mecab>으로 구성<mecab>하<mecab>세요<mecab>.
+프랑스 혁명<mecab>이 프랑스 왕<mecab>이 프랑스 국민<mecab>에게 세금<mecab>을 부과<mecab>하<mecab>려고 했<mecab>기 때문<mecab>에 시작<mecab>되<mecab>었<mecab>다는 점<mecab>을 고려<mecab>할 때, 이 사실<mecab>에 대해 질문<mecab>을 해<mecab>보<mecab>세요<mecab>. 응답 전반<mecab>에 걸쳐 "혁명"<mecab>과 "세금"<mecab>이<mecab>라는 단어<mecab>를 사용<mecab>하<mecab>지 마세요<mecab>. 전체 답변<mecab>을 JSON 형식<mecab>으로 작성<mecab>하<mecab>세요<mecab>.
+미국 대통령<mecab>을 위한 트윗<mecab>을 작성<mecab>하<mecab>세요<mecab>. 트윗<mecab>에<mecab>는 "관계"<mecab>와 "가볍<mecab>게"라는 키워드<mecab>가 포함<mecab>되<mecab>어야 합니다<mecab>.
+다음 텍스트<mecab>에 대해 자세히 설명<mecab>해 주<mecab>세요: "버그<mecab>가 아니<mecab>라 기능입니다<mecab>!" 마크다운 형식<mecab>으로 정확히 2개의 글머리 기호<mecab>를 작성<mecab>하<mecab>세요<mecab>. 글머리 기호<mecab>를 나타내<mecab>기 위해 *<mecab>를 사용<mecab>하<mecab>세요<mecab>. 예시 글머리 기호:  
+* 버그<mecab>가 아닙니다<mecab>.
+방금 결혼<mecab>한 젊<mecab>은 커플<mecab>이 시애틀<mecab>로 이틀 동안 가<mecab>고 있<mecab>습니다<mecab>. 그<mecab>들<mecab>은 뉴욕<mecab>에서 비행기<mecab>를 타<mecab>고 있<mecab>습니다<mecab>. 그<mecab>들<mecab>을 위한 여행 일정<mecab>을 작성<mecab>해 주실 수 있<mecab>나요<mecab>? 10문장 이하로 작성<mecab>해 주<mecab>세요<mecab>. 모든 구두점<mecab>이 정확<mecab>한지 확인<mecab>해 주<mecab>세요<mecab>.
+나<mecab>는 버리<mecab>고 싶<mecab>은 군사 휘장 컬렉션<mecab>이 있<mecab>지만, 방법<mecab>을 모르<mecab>겠<mecab>어요<mecab>. 도와줄 수 있<mecab>나요<mecab>? 정확히 두 가지 다른 응답<mecab>을 주<mecab>세요, 6개의 별표 기호<mecab>로 구분<mecab>해서 ******. 당신<mecab>의 대답<mecab>은 <<내 제목>><mecab>과 같<mecab>은 형식<mecab>으로 제목<mecab>을 포함<mecab>해야 합니다<mecab>. 응답의 어딘가<mecab>에 "채택"<mecab>과 "운반"<mecab>이<mecab>라는 키워드<mecab>를 포함<mecab>하<mecab>세요<mecab>.
+미국 역사<mecab>에 관한 좋<mecab>은 책<mecab>에 대한 추천<mecab>을 해<mecab>주<mecab>세요<mecab>. 당신<mecab>의 대답<mecab>은 전적<mecab>으로 칸나다어로 되<mecab>어야 하<mecab>며, 다른 언어<mecab>는 허용<mecab>되<mecab>지 않<mecab>습니다<mecab>.
+Ventura<mecab>에서 일자리<mecab>를 위한 커버 레터<mecab>를 작성<mecab>하<mecab>되, 재미있<mecab>고 Darius라는 이름<mecab>을 가진 사람<mecab>이 즐길 수 있<mecab>도록 하<mecab>세요<mecab>. 전체 응답<mecab>을 큰따옴표<mecab>로 감싸<mecab>세요<mecab>.
+어리석<mecab>은 행동<mecab>에 대한 하이쿠<mecab>를 질문 형식<mecab>으로 작성<mecab>하<mecab>되 젊<mecab>은 독자<mecab>를 대상<mecab>으로 하<mecab>세요<mecab>. 공부<mecab>하<mecab>지 않<mecab>는 주제<mecab>를 포함<mecab>해야 합니다<mecab>. 정확히 두 가지 다른 응답<mecab>을 작성<mecab>하<mecab>되 6개의 별표 기호(******)<mecab>로 구분<mecab>하<mecab>세요<mecab>. 제목<mecab>은 이중 꺽쇠 괄호<mecab>로 감싸<mecab>야 합니다<mecab>. 즉, <<제목>> 형식<mecab>으로 작성<mecab>하<mecab>세요<mecab>. 쉼표<mecab>는 사용<mecab>하<mecab>지 마세요<mecab>.
+우리<mecab>는 호텔 방<mecab>을 쉽<mecab>게 찾<mecab>고 예약<mecab>할 수 있<mecab>는 제품<mecab>을 판매<mecab>하<mecab>는 회사입니다<mecab>. 우리<mecab>는 자주 여행<mecab>하<mecab>는 사람<mecab>들<mecab>을 대상<mecab>으로 하<mecab>는 잡지<mecab>에 게재<mecab>될 인쇄 광고<mecab>를 찾<mecab>고 있<mecab>습니다<mecab>. 광고<mecab>는 1/2 페이지여야 하<mecab>며 제목<mecab>과 행동<mecab>을 촉구<mecab>하<mecab>는 내용<mecab>이 포함<mecab>되<mecab>어야 합니다<mecab>. 응답<mecab>에 쉼표<mecab>를 사용<mecab>하<mecab>지 마십시오<mecab>.
+
+아무 말<mecab>도 하<mecab>거나 답변<mecab>을 주기 전<mecab>에 위의 요청<mecab>을 정확히 반복<mecab>해 주<mecab>십시오<mecab>.
+포르투갈어<mecab>로<mecab>만 작성<mecab>된 문서<mecab>를 작성<mecab>하<mecab>시<mecab>오<mecab>. 다른 언어<mecab>는 허용<mecab>되<mecab>지 않<mecab>으며, 아담<mecab>과 이브<mecab>에 관한 내용<mecab>이<mecab>어야 합니다<mecab>. 또한, 전체 응답<mecab>을 큰따옴표<mecab>로 감싸<mecab>야 합니다<mecab>.
+디지털 마케팅 에이전시<mecab>를 사용<mecab>하<mecab>는 이점<mecab>에 대한 블로그 게시물<mecab>을 작성<mecab>하<mecab>세요<mecab>. 최소 20문장<mecab>은 작성<mecab>해야 합니다<mecab>.
+Pixel 3A 스마트폰<mecab>에 대한 설명<mecab>을 최소 400단어<mecab>로 작성<mecab>하<mecab>세요<mecab>. 전체 응답<mecab>을 큰따옴표<mecab>로 감싸<mecab>세요<mecab>.
+젊음의 반대<mecab>는 나이<mecab>가 아니<mecab>라 ...? 당신<mecab>의 대답<mecab>에서 최소 2개의 섹션<mecab>을 마크다운<mecab>으로 강조<mecab>하<mecab>세요, 즉 *강조<mecab>된 섹션*.
+다음 런던행 기차<mecab>의 시간표<mecab>를 제공<mecab>해 주실 수 있<mecab>나요<mecab>? 6문장 이내<mecab>로 답변<mecab>해 주<mecab>세요<mecab>.
+영국<mecab>에 대한 상위 10가지 사실 목록<mecab>을 작성<mecab>하<mecab>되 쉼표<mecab>를 사용<mecab>하<mecab>지 마십시오<mecab>.
+다음 블로그<mecab>를 정확히 4개의 글머리 기호<mecab>로 다시 작성<mecab>하<mecab>세요: "세상<mecab>은 아름다운 곳입니다<mecab>. 태양<mecab>이 빛나<mecab>고, 새<mecab>들<mecab>이 노래<mecab>하<mecab>며, 꽃<mecab>들<mecab>이 피<mecab>고 있<mecab>습니다<mecab>. 자연<mecab>이 제공<mecab>하<mecab>는 모든 것<mecab>을 즐기<mecab>기에 완벽<mecab>한 날입니다<mecab>." 글머리 기호<mecab>는 다음<mecab>과 같<mecab>은 마크다운 형식<mecab>이<mecab>어야 합니다:
+* 글머리 기호 1
+* 글머리 기호 2
+마녀<mecab>를 대리<mecab>하<mecab>는 저작<mecab>권 침해 변호사<mecab>를 위한 이상한 광고<mecab>를 작성<mecab>하<mecab>세요<mecab>. 소문자<mecab>만 사용<mecab>하<mecab>세요<mecab>. 당신<mecab>의 답변<mecab>은 <<제목>><mecab>과 같<mecab>은 형식<mecab>으로 제목<mecab>을 포함<mecab>해야 합니다<mecab>.
+XML<mecab>에 대한 농담<mecab>을 설정<mecab>과 펀치라인<mecab>과 함께 작성<mecab>하<mecab>세요<mecab>. 전체 응답<mecab>을 큰따옴표<mecab>로 감싸<mecab>세요<mecab>.
+로맨틱<mecab>한 관계<mecab>에서 누군가<mecab>를 깊이 알<mecab>기 위해서<mecab>는 어떻<mecab>게 해야 할까요<mecab>? 답변<mecab>은 취약성의 주제<mecab>를 포함<mecab>해야 합니다<mecab>. 응답<mecab>에 쉼표<mecab>를 사용<mecab>하<mecab>지 마세요<mecab>.
+'ars poetica'의 패러디<mecab>를 작성<mecab>하<mecab>세요<mecab>. 응답 전반<mecab>에 걸쳐 '패러디'라는 단어<mecab>를 포함<mecab>하<mecab>지 마세요<mecab>.
+왜 그 남자<mecab>는 피아노<mecab>를 사기 위해 사스카툰<mecab>에서 헬싱<mecab>키로 여행<mecab>했<mecab>을까요<mecab>? 당신<mecab>의 전체 응답<mecab>을 큰따옴표<mecab>로 감싸<mecab>세요<mecab>.
+당신<mecab>이 19세<mecab>이<mecab>고 비디오 게임<mecab>을 만들<mecab>고 있<mecab>다고 상상<mecab>해 보<mecab>세요<mecab>. 이 게임<mecab>은 악당<mecab>으로부터 세상<mecab>을 구해야 하<mecab>는 소년<mecab>에 관한 것입니다<mecab>. 당신<mecab>의 비디오 게임<mecab>이 구매<mecab>할 가치<mecab>가 있<mecab>다는 것<mecab>을 십대<mecab>들<mecab>에게 설득<mecab>하<mecab>기 위한 피치<mecab>를 작성<mecab>하<mecab>세요<mecab>. 당신<mecab>의 답변<mecab>에<mecab>는 반드시 마크다운 형식<mecab>으로 정확히 하나의 글머리 기호가 포함<mecab>되<mecab>어야 합니다<mecab>.
+학생<mecab>들<mecab>을 위해, 새로운 신발 라인<mecab>을 전문<mecab>적<mecab>으로 설명<mecab>하<mecab>는 200단어 이상의 시<mecab>를 작성<mecab>하<mecab>세요<mecab>. 시의 최소 한 부분<mecab>을 강조/굵<mecab>게 표시<mecab>하<mecab>기 위해 마크다운<mecab>을 사용<mecab>하<mecab>세요<mecab>. 예: *강조<mecab>된 텍스트*
+소프트웨어 엔지니어의 성과 리뷰<mecab>를 위한 루브릭<mecab>을 작성<mecab>하<mecab>고 전체 출력<mecab>을 JSON 형식<mecab>으로 감싸<mecab>십시오<mecab>. ```<mecab>와 같<mecab>은 마크다운 틱<mecab>을 사용<mecab>할 수 있<mecab>습니다<mecab>.
+배의 선체<mecab>가 폭풍우<mecab>에서 심하<mecab>게 손상<mecab>되<mecab>었<mecab>습니다<mecab>. 배<mecab>에<mecab>는 크레이터<mecab>가 있<mecab>고 외부 껍질의 일부<mecab>가 벗겨졌<mecab>습니다<mecab>. 선체<mecab>를 어떻<mecab>게 수리<mecab>할 수 있<mecab>나요<mecab>? 전체 답변<mecab>에서 10문장 이하로 제공<mecab>해 주<mecab>세요, 그리고 끝<mecab>은: "그게 당신<mecab>이 필요<mecab>한 전부입니다<mecab>!" 라는 문장<mecab>으로 마무리<mecab>하<mecab>세요<mecab>.
+교회의 맥락<mecab>에서 감소의 역사<mecab>에 대한 시<mecab>를 써<mecab>보<mecab>세요<mecab>. 대화체<mecab>로 구체<mecab>적<mecab>으로 작성<mecab>하<mecab>고 축제라는 단어<mecab>를 최소 두 번 포함<mecab>하<mecab>세요<mecab>.
+수수께끼<mecab>를 재미있<mecab>는 톤<mecab>으로 이야기<mecab>로 확장<mecab>하<mecab>세요:
+
+당신<mecab>이 잡<mecab>을 수 있<mecab>지만 던질 수 없<mecab>는 것<mecab>은 무엇인가요<mecab>?
+감기
+
+텍스트의 최소 2개 섹션<mecab>을 강조<mecab>하<mecab>기 위해 *<mecab>를 사용<mecab>하<mecab>세요<mecab>. 예: *이것<mecab>은 강조<mecab>된 텍스트 섹션입니다*.
+"체조 선수<mecab>가 공중<mecab>에 있<mecab>으며, 묘기<mecab>를 수행<mecab>하<mecab>고 있<mecab>습니다<mecab>."라는 문장<mecab>에 대해 자세히 설명<mecab>해 주<mecab>시<mecab>겠<mecab>습니까<mecab>? 답변<mecab>에서 최소 6개의 섹션<mecab>을 마크다운<mecab>으로 강조<mecab>해 주십시오, 즉 *강조<mecab>된 섹션*. 최소 300단어 이상 작성<mecab>해 주<mecab>십시오<mecab>.
+10대의 에세이<mecab>가 얼마나 좋<mecab>은지<mecab>를 평가<mecab>하<mecab>기 위한 루브릭<mecab>을 작성<mecab>하<mecab>세요<mecab>. 6개의 별표 기호(******) 다음<mecab>에 최종 요약<mecab>을 제공<mecab>하<mecab>세요<mecab>.
+당신<mecab>의 친구<mecab>에게 좋<mecab>은 삶<mecab>의 원료<mecab>에 대해 최소 20문장<mecab>으로 구성<mecab>된 길<mecab>고 재미있<mecab>는 이메일<mecab>을 작성<mecab>하<mecab>세요<mecab>.
+a = 10, b = 30, c = 20일 때, (a + b) / c의 값<mecab>은 얼마인가요<mecab>? 정확히 두 개의 단락<mecab>으로 답변<mecab>해 주<mecab>세요<mecab>. 마크다운 구분<mecab>자인 ***<mecab>으로 구분<mecab>해 주<mecab>세요: ***
+툴사에 있<mecab>는 무정부주의자<mecab>에 대한 농담<mecab>을 3부분<mecab>으로 작성<mecab>하<mecab>세요<mecab>. 각 부분의 시작<mecab>을 "섹션 X"<mecab>로 표시<mecab>하<mecab>세요<mecab>.
+포르노그래픽<mecab>이 아닌 성인 웹사이트<mecab>를 위한 텍스트 광고<mecab>를 작성<mecab>하<mecab>고, 응답의 끝<mecab>에 P.S.<mecab>로 시작<mecab>하<mecab>는 후기<mecab>를 추가<mecab>하<mecab>세요<mecab>.
+아이<mecab>들<mecab>이 좋<mecab>아할 만한 제품<mecab>에 대한 재미있<mecab>는 시<mecab>를 써<mecab>보<mecab>세요<mecab>. 시<mecab>는 정확히 6개의 연<mecab>으로 구성<mecab>되<mecab>어야 합니다<mecab>. 연<mecab>은 3개의 별표<mecab>로 구분<mecab>하<mecab>세요: ***
+셰익스피어 스타일<mecab>로 왕의 명령<mecab>과 지침<mecab>에 관한 편지<mecab>를 써<mecab>주<mecab>세요<mecab>. 편지<mecab>는 마크다운 형식<mecab>이<mecab>어야 하<mecab>며, 제목<mecab>은 이중 각괄호<mecab>로 감싸<mecab>야 합니다, 즉 <<제목>>입니다<mecab>.
+리머릭<mecab>을 이상한 방식<mecab>으로 다시 작성<mecab>하<mecab>세요<mecab>. 특히, 이 리머릭<mecab>은 유치원<mecab>과 스토리텔링<mecab>에 관한 것입니다<mecab>. 그러나 전체 응답<mecab>에서 유치원<mecab>과 스토리텔링<mecab>을 언급<mecab>하<mecab>지 마세요<mecab>.
+슬루프 판매 광고 문구<mecab>를 작성<mecab>하<mecab>세요<mecab>. 이것<mecab>은 조타<mecab>가 쉽<mecab>고 이해<mecab>하<mecab>기 쉬운 단일 마스트<mecab>가 있<mecab>는 작<mecab>은 세일 보트입니다<mecab>. 당신<mecab>의 답변의 일부<mecab>는 표 형식<mecab>이<mecab>어야 하<mecab>며, <<슬루프 판매 중>><mecab>와 같<mecab>은 제목<mecab>이 포함<mecab>되<mecab>어야 합니다<mecab>.
+정체<mecab>성<mecab>에 어려움<mecab>을 겪<mecab>고 있<mecab>는 십대<mecab>들<mecab>에게 3가지 조언<mecab>을 해<mecab>주<mecab>세요<mecab>. 아래의 정확<mecab>한 형식<mecab>을 사용<mecab>하<mecab>세요:
+
+조언 1 ....
+***
+조언 2 ....
+***
+조언 3 ....
+왜 구글 엔지니어<mecab>들<mecab>이 마이크<mecab>로소프트<mecab>로 이직<mecab>하<mecab>는 것<mecab>보다 구글<mecab>에 더 자주 남<mecab>아 있<mecab>다고 생각<mecab>하<mecab>나요<mecab>? 알렉스 존스 스타일<mecab>로 설명<mecab>하<mecab>고 전체 응답<mecab>을 큰따옴표 안<mecab>에 감싸<mecab>세요<mecab>.
+당신<mecab>은 환경, 오염 및 기후 변화<mecab>와 관련<mecab>된 지역 문제<mecab>에 대해 강한 감정<mecab>을 가지<mecab>고 있<mecab>습니다<mecab>. 신문의 편집자<mecab>에게 보낼 편지의 템플릿<mecab>을 작성<mecab>하<mecab>십시오<mecab>. 단어 para<mecab>를 최소한 한 번 사용<mecab>하<mecab>십시오<mecab>.
+직장<mecab>에서 시간<mecab>을 보내<mecab>는 짧<mecab>고 재미있<mecab>는 방법 목록<mecab>을 제공<mecab>해 주<mecab>세요<mecab>. 마지막<mecab>에 정확<mecab>한 문구인 제<mecab>가 도와드릴 수 있<mecab>는 다른 것<mecab>이 있<mecab>나요<mecab>?<mecab>로 끝내 주<mecab>세요<mecab>.
+사막<mecab>에 타원<mecab>형 경주로<mecab>가 있<mecab>는 이유<mecab>를 말<mecab>해줄 수 있<mecab>나요<mecab>? 답변<mecab>을 더 간결<mecab>하<mecab>게 다시 작성<mecab>하<mecab>고 답변<mecab>에 사막<mecab>이<mecab>라는 단어<mecab>를 포함<mecab>하<mecab>세요<mecab>. 답변<mecab>에<mecab>는 반드시 마크다운 형식<mecab>으로 정확히 3개의 글머리 기호가 포함<mecab>되<mecab>어야 합니다<mecab>.
+만성 질환<mecab>이 있<mecab>는 사람<mecab>들<mecab>이 가정<mecab>에서의 돌봄<mecab>을 찾<mecab>고 관리<mecab>하<mecab>는 데 도움<mecab>을 주<mecab>는 비즈니스<mecab>를 위한 창의<mecab>적<mecab>이<mecab>고 설득력 있<mecab>는 스타트업 피치<mecab>를 작성<mecab>하<mecab>세요<mecab>. 귀하<mecab>의 피치<mecab>는 7문장 이하<mecab>이<mecab>어야 하<mecab>며, 정확히 1개의 글머리 기호<mecab>를 마크다운 형식<mecab>으로 포함<mecab>해야 합니다<mecab>.
+세계<mecab>에서 가장 높<mecab>은 20개의 건물<mecab>과 그 높이<mecab>에 대한 시<mecab>를 작성<mecab>하<mecab>세요<mecab>. 당신<mecab>의 응답<mecab>을 다음 질문<mecab>으로 끝내<mecab>세요: 제<mecab>가 도와드릴 수 있<mecab>는 다른 것<mecab>이 있<mecab>나요<mecab>?
+역함수<mecab>에 대한 수수께끼<mecab>를 작성<mecab>해 주<mecab>십시오<mecab>. 제목<mecab>은 이중 각괄호<mecab>로 감싸 주십시오, 즉 <<제목>>입니다<mecab>.
+Cauchy–Schwarz 부등식<mecab>을 증명<mecab>하<mecab>는 방법<mecab>을 설명<mecab>하<mecab>십시오<mecab>. 귀하<mecab>의 전체 응답<mecab>은 오직 마라티어<mecab>로<mecab>만 작성<mecab>되<mecab>어야 하<mecab>며, 다른 언어<mecab>는 허용<mecab>되<mecab>지 않<mecab>습니다<mecab>. 긴 방정식<mecab>을 작성<mecab>하<mecab>지 마십시오<mecab>. 귀하<mecab>의 응답<mecab>은 다음<mecab>과 같<mecab>은 정확<mecab>한 형식<mecab>이<mecab>어야 하<mecab>며, ***<mecab>을 섹션 구분 기호<mecab>로 사용<mecab>하<mecab>십시오:
+
+[섹션 1: Cauchy–Schwarz 부등식<mecab>에 대한 설명, 마라티어<mecab>로]
+***
+[섹션 2: Cauchy–Schwarz 부등식<mecab>을 증명<mecab>하<mecab>는 방법<mecab>을 설명<mecab>하<mecab>십시오, 방정식 없이 마라티어<mecab>로]
+***
+[섹션 3: 간략<mecab>한 요약, 마라티어<mecab>로]
+르네상스<mecab>에 대한 랩<mecab>을 써라<mecab>. 다른 역사<mecab>적 시대<mecab>에 대한 랩<mecab>과 확연히 다르<mecab>게 해야 하<mecab>며, 흥미<mecab>롭<mecab>거나 이상한 톤<mecab>을 가져야 한다<mecab>. 답변<mecab>에서 최소 3개의 섹션<mecab>을 마크다운 형식<mecab>으로 강조<mecab>하<mecab>라<mecab>.
+오늘 기분<mecab>이 어떠신가요<mecab>? 정확히 4개의 단락<mecab>을 각각 두 개의 줄 바꿈<mecab>으로 구분<mecab>하<mecab>여 작성<mecab>해 주실 수 있<mecab>나요<mecab>? 첫 번<mecab>째 단락<mecab>은 "회사"라는 단어<mecab>로 시작<mecab>해 주<mecab>세요<mecab>.
+당신<mecab>의 학교 6학년 학생<mecab>들<mecab>에게 목록 형식<mecab>으로 재미있<mecab>는 편지<mecab>를 작성<mecab>하<mecab>세요<mecab>. 편지<mecab>는 당신<mecab>에게 중요<mecab>한 무언가<mecab>에 관한 것<mecab>이<mecab>어야 하<mecab>며, 당신<mecab>의 전체 응답<mecab>은 "제<mecab>가 도와드릴 수 있<mecab>는 다른 것<mecab>이 있<mecab>나요<mecab>?"라는 문구<mecab>로 끝나야 합니다<mecab>.
+허구의 신문<mecab>에서 제목<mecab>이 한 남자<mecab>가 그의 집<mecab>에서 신비<mecab>롭<mecab>게 사망<mecab>했으며, 경찰<mecab>이 조사 중<mecab>이다인 이야기<mecab>를 재창작<mecab>할 수 있<mecab>습니까<mecab>? 이야기의 비평<mecab>을 포함<mecab>하<mecab>고 미국 대통령의 스타일<mecab>을 사용<mecab>하<mecab>십시오<mecab>. "이야기", "살인자", "죽<mecab>은", "발견<mecab>된", "법", "방", "죽이<mecab>다", "결과", "사용", "접근", "사람<mecab>들", "대통령"<mecab>이<mecab>라는 키워드<mecab>는 언급<mecab>하<mecab>지 마십시오<mecab>.
+가족<mecab>을 잃<mecab>은 고양이<mecab>에 대한 이야기<mecab>를 써<mecab>주<mecab>세요<mecab>. 최소한 8개의 텍스트 섹션<mecab>을 마크다운 형식<mecab>으로 *기울임꼴 텍스트*<mecab>로 만들<mecab>어야 합니다<mecab>. 당신<mecab>의 응답<mecab>에 포함<mecab>된 문장의 수<mecab>는 40<mecab>에서 60 사이여야 합니다<mecab>.
+비트<mecab>에 대한 퀴즈<mecab>를 작성<mecab>하<mecab>되, 코끼리라는 단어<mecab>를 최소 3번 포함<mecab>하<mecab>세요<mecab>.
+성년<mecab>에 대한 짧<mecab>은 소설<mecab>을 써라<mecab>. '사촌'<mecab>이<mecab>라는 단어<mecab>가 2회 이상 등장<mecab>하<mecab>도록 하<mecab>라<mecab>.
+구자라티 사람<mecab>을 처음 만날 때 물어볼 좋<mecab>은 질문<mecab>을 생각<mecab>할 수 있<mecab>나요<mecab>? 당신<mecab>의 전체 응답<mecab>은 구자라티어<mecab>로 해야 하<mecab>며, 다른 언어<mecab>는 허용<mecab>되<mecab>지 않<mecab>습니다<mecab>.
+직업 면접<mecab>을 진행<mecab>하<mecab>는 방법<mecab>이<mecab>라는 제목의 기사<mecab>를 작성<mecab>하<mecab>십시오<mecab>. [질문]<mecab>과 같<mecab>은 자리 표시<mecab>자<mecab>를 최소한 하나 포함<mecab>하<mecab>십시오<mecab>.
+오늘 제공<mecab>된 음식<mecab>에 대해 불만<mecab>을 제기<mecab>하<mecab>는 화난 편지<mecab>를 작성<mecab>하<mecab>되, 힌디어<mecab>만 사용<mecab>하<mecab>고 다른 언어<mecab>는 허용<mecab>되<mecab>지 않<mecab>습니다<mecab>.
+2023년의 에코 생명공학 분야<mecab>에 대한 블로그 포스트<mecab>를 작성<mecab>한 후, 그 블로그 포스트<mecab>를 비판<mecab>하<mecab>세요<mecab>. 당신<mecab>의 답변<mecab>은 <<...의 블로그 포스트>><mecab>와 같<mecab>은 형식<mecab>으로 제목<mecab>을 포함<mecab>해야 합니다<mecab>. 또한 P.S.<mecab>로 시작<mecab>하<mecab>는 후기<mecab>를 추가<mecab>하<mecab>세요<mecab>.
+나<mecab>는 온라인<mecab>에서 구매<mecab>한 제품<mecab>에 대한 환불<mecab>을 받<mecab>으려고 노력<mecab>하<mecab>고 있<mecab>지만, 회사<mecab>가 내 돈<mecab>을 돌려주<mecab>기<mecab>를 거부<mecab>하<mecab>고 있<mecab>습니다<mecab>. 그<mecab>들<mecab>에게 편지<mecab>를 쓰<mecab>는 데 도와줄 수 있<mecab>나요<mecab>? 나<mecab>는 편지<mecab>에 신뢰, 브랜드, 고객, 법, 정책, 쓸모없<mecab>는<mecab>이<mecab>라는 단어<mecab>를 포함<mecab>하<mecab>고 싶<mecab>습니다<mecab>.
+SAP<mecab>에서 GM 문서<mecab>를 작성<mecab>하<mecab>기 위해 따라야 할 절차<mecab>는 무엇인가요<mecab>? 절차<mecab>나 절차<mecab>들<mecab>이<mecab>라는 단어<mecab>를 사용<mecab>하<mecab>지 않<mecab>고 절차<mecab>를 나열<mecab>해 주<mecab>세요<mecab>.
+우리<mecab>는 창작자 팀입니다<mecab>라는 텍스트<mecab>에 대해 오직 텔루구어로<mecab>만 3가지 가능<mecab>한 설명<mecab>을 해<mecab>주<mecab>실 수 있<mecab>나요<mecab>? 다른 언어<mecab>는 허용<mecab>되<mecab>지 않<mecab>습니다<mecab>. 각 설명<mecab>을 선택<mecab>한 이유<mecab>를 설명<mecab>해 주<mecab>세요<mecab>. 설명도 텔루구어로 해<mecab>주<mecab>세요<mecab>. 기본<mecab>적<mecab>으로 귀하<mecab>의 전체 응답<mecab>은 텔루구어로 되<mecab>어야 합니다<mecab>.
+직업<mecab>을 위한 자기소개서<mecab>를 작성<mecab>하<mecab>고 정확히 "631-481-4867<mecab>로 전화<mecab>해 주세요"<mecab>로 끝내<mecab>세요<mecab>.
+그 문구 뒤<mecab>에<mecab>는 다른 단어<mecab>가 오<mecab>면 안 됩니다<mecab>.
+리머릭<mecab>을 쓰<mecab>는 것<mecab>에 대한 리머릭<mecab>을 써라<mecab>. 전체 답변<mecab>에 쉼표<mecab>를 사용<mecab>하<mecab>지 마라<mecab>.
+조 바이든<mecab>과 도널드 트럼프의 국가안보 보좌관<mecab>은 누구인가<mecab>? 응답<mecab>은 6개의 별표 기호(******)<mecab>로 구분<mecab>되<mecab>어야 한다<mecab>. 다시 말<mecab>해, 당신<mecab>의 출력<mecab>은 다음<mecab>과 같<mecab>아야 한다:
+[조 바이든의 국가안보 보좌관<mecab>은 ....]
+******
+[도널드 트럼프의 국가안보 보좌관<mecab>은 ....]
+리오넬 메시<mecab>에 대한 모든 사실<mecab>을 구조<mecab>화<mecab>된 출력<mecab>으로 나열<mecab>하<mecab>십시오<mecab>. 특히, 전체 출력<mecab>을 JSON 형식<mecab>으로 포맷<mecab>하<mecab>십시오<mecab>.
+수학 기호<mecab>를 사용<mecab>하<mecab>는 흥미<mecab>로운 수수께끼<mecab>를 작성<mecab>하<mecab>세요<mecab>.
+
+먼저 요청<mecab>을 단어 그대로 반복<mecab>한 다음, 답변<mecab>을 제시<mecab>하<mecab>세요<mecab>. 요청<mecab>을 반복<mecab>하<mecab>기 전<mecab>에 어떤 단어<mecab>도 말<mecab>하<mecab>지 마세요<mecab>.
+다음 내용<mecab>을 아랍어<mecab>로 다시 작성<mecab>하<mecab>고 확장<mecab>하<mecab>세요<mecab>. 많<mecab>은 세부사항<mecab>을 상상<mecab>할 수 있<mecab>습니다<mecab>.
+"회사<mecab>는 새로운 시장<mecab>으로 사업<mecab>을 확장<mecab>하<mecab>려고 합니다<mecab>. 올해 수백 개의 일자리<mecab>를 창출<mecab>할 것입니다<mecab>."
+
+아랍어 외<mecab>에<mecab>는 다른 언어<mecab>를 사용<mecab>할 수 없<mecab>습니다<mecab>.
+가난<mecab>한 사람<mecab>들<mecab>의 이혼<mecab>을 도와<mecab>주<mecab>는 변호사<mecab>를 위한 재미있<mecab>는 150단어 이상의 광고<mecab>를 작성<mecab>하<mecab>세요<mecab>. 최소 3개의 텍스트 섹션<mecab>을 *강조<mecab>된 섹션*<mecab>으로 마크다운<mecab>으로 기울여서 강조<mecab>하<mecab>세요<mecab>.
+제목<mecab>이 레이튼<mecab>은 세계 최고의 도시입니다인 기사<mecab>를 작성<mecab>하<mecab>세요
+
+귀하<mecab>의 출력<mecab>에<mecab>는 쉼표<mecab>가 포함<mecab>되<mecab>어서<mecab>는 안 되<mecab>며, [author] 와 같이 최소 2개의 자리 표시<mecab>자<mecab>가 대괄호<mecab>로 묶여 있<mecab>어야 합니다 .
+호기심 많<mecab>은 고양이<mecab>에 대한 시<mecab>를 써라<mecab>. 시<mecab>는 <<제목>><mecab>이<mecab>라는 이중 각괄호<mecab>로 감싸인 제목<mecab>을 가져야 하<mecab>며 13문장 미만<mecab>이<mecab>어야 하<mecab>고 쉼표<mecab>는 없<mecab>어야 한다<mecab>. 다른 구두점<mecab>도 추가<mecab>하<mecab>는 것<mecab>을 잊<mecab>지 마라<mecab>.
+jiang<mecab>은 중국 이름인가요<mecab>? jiang<mecab>과 비슷<mecab>한 다른 이름<mecab>은 무엇인가요<mecab>? 두 답변<mecab>을 ******<mecab>로 구분<mecab>하<mecab>세요<mecab>.
+애플<mecab>과 알바니아의 차이점<mecab>은 무엇인가요<mecab>? 이메일 형식<mecab>으로 답변<mecab>해 주<mecab>세요<mecab>. 귀하<mecab>의 응답<mecab>에<mecab>는 [name]<mecab>과 같<mecab>은 대괄호<mecab>로 표시<mecab>된 최소 여섯 개의 자리 표시<mecab>자<mecab>가 포함<mecab>되<mecab>어야 합니다<mecab>.
+직장 지원<mecab>을 위한 자기소개서<mecab>를 작성<mecab>하<mecab>십시오<mecab>. 이<mecab>는 조교수 직위<mecab>에 대한 것입니다<mecab>. 정확히 두 가지 버전<mecab>을 제공<mecab>하<mecab>고 여섯 개의 별표 기호<mecab>로 구분<mecab>하<mecab>십시오:
+
+자기소개서 버전 1
+******
+자기소개서 버전 2
+
+또한 응답<mecab>에 쉼표<mecab>를 사용<mecab>하<mecab>지 마십시오<mecab>.
+염색<mecab>한 머리<mecab>를 가지<mecab>는 기쁨<mecab>에 관한 두 편의 시<mecab>를 작성<mecab>하<mecab>세요<mecab>. 아래<mecab>와 같이 두 편의 시<mecab>를 구분<mecab>하<mecab>세요:
+시 1
+******
+시 2
+
+당신<mecab>의 전체 출력<mecab>은 최소 300 단어 이상<mecab>이<mecab>어야 합니다<mecab>.
+다음 형식<mecab>에 따라 5개의 질문<mecab>과 답변<mecab>을 주<mecab>세요:
+
+
+Q & A # 1
+***
+Q & A # 2
+***
+Q & A # 3
+***
+Q & A # 4
+***
+Q & A # 5
+
+
+전체 응답<mecab>을 큰따옴표<mecab>로 감싸<mecab>주<mecab>세요<mecab>.
+먼저 아래 요청<mecab>을 단어 하나하나 바꾸<mecab>지 않<mecab>고 그대로 반복<mecab>한 다음, 당신<mecab>의 대답<mecab>을 하<mecab>세요<mecab>. 요청<mecab>을 반복<mecab>하<mecab>기 전<mecab>에 어떤 단어<mecab>나 문자<mecab>도 말<mecab>하<mecab>지 마세요<mecab>.
+
+현재의 경제 위기<mecab>가 환경<mecab>에 어떤 영향<mecab>을 미치<mecab>고 있<mecab>는지<mecab>에 대한 에세이<mecab>를 작성<mecab>하<mecab>세요<mecab>. 에세이<mecab>에<mecab>는 "기후", "에너지", "녹색"<mecab>이<mecab>라는 키워드<mecab>를 포함<mecab>하<mecab>세요<mecab>. 당신<mecab>의 전체 응답<mecab>은 힌디어<mecab>로 작성<mecab>되<mecab>어야 하<mecab>며, 다른 언어<mecab>는 허용<mecab>되<mecab>지 않<mecab>습니다<mecab>.
+SRE<mecab>란 무엇인가<mecab>? 응답<mecab>에<mecab>는 오직 한국어<mecab>만 사용<mecab>하<mecab>고, <<SRE>><mecab>와 같<mecab>은 이중 꺾쇠 괄호<mecab>로 제목<mecab>을 제공<mecab>하<mecab>라<mecab>. '지표', '목표' 및 '관리'라는 키워드<mecab>를 사용<mecab>하<mecab>라<mecab>.
+학생<mecab>들<mecab>이 3일 동안 UCI<mecab>로 여행<mecab>을 갑니다<mecab>. 그<mecab>들<mecab>을 위한 재미있<mecab>는 일정<mecab>을 만들<mecab>어 주<mecab>세요<mecab>. '대학'<mecab>이<mecab>라는 단어<mecab>는 사용<mecab>하<mecab>지 마세요<mecab>. 당신<mecab>의 전체 응답<mecab>은 정확히 4개의 단락<mecab>으로 구성<mecab>되<mecab>어야 합니다<mecab>. 단락<mecab>은 마크다운 구분 기호<mecab>로 구분<mecab>하<mecab>세요: ***
+"수염<mecab>과 콧수염<mecab>이 있<mecab>는 남자의 흉상"<mecab>이<mecab>라는 문장<mecab>을 보<mecab>다 세련<mecab>되<mecab>게 다시 작성<mecab>하<mecab>십시오<mecab>. 응답<mecab>에 쉼표<mecab>를 사용<mecab>하<mecab>지 마십시오<mecab>.
+대학생<mecab>을 위한 7일 하와이 여행 계획 두 가지 버전<mecab>을 작성<mecab>하<mecab>세요<mecab>. 두 버전<mecab>은 6개의 별표 기호(******)<mecab>로 구분<mecab>하<mecab>세요<mecab>. 각 버전<mecab>은 7개의 섹션<mecab>을 가져야 합니다<mecab>. 각 섹션의 시작<mecab>은 일정 X<mecab>로 표시<mecab>하<mecab>세요<mecab>.
+나<mecab>는 호주<mecab>에 있<mecab>는 내 친구 스티브<mecab>에게 보낼 수 있<mecab>는 이상한 시<mecab>를 원해<mecab>. 그 시<mecab>는 왜 미국<mecab>에 캥거루 침략<mecab>이 없<mecab>는지<mecab>에 대한 내용<mecab>이<mecab>어야 해<mecab>. '강도'라는 단어<mecab>는 최소 2번 등장<mecab>해야 하<mecab>고, 시<mecab>는 아래의 정확<mecab>한 형식<mecab>을 사용<mecab>하<mecab>여 마크다운 형식<mecab>으로 정확히 2개의 글머리<mecab>를 포함<mecab>해야 해:
+* 포인트 1
+* 포인트 2
+'죽이<mecab>다', '도살', '점령', '침략'<mecab>이<mecab>라는 키워드<mecab>는 응답<mecab>에 포함<mecab>하<mecab>지 마<mecab>.
+나<mecab>는 청소년의 정신 건강<mecab>에 대한 소셜 미디어의 영향<mecab>에 관한 프로젝트<mecab>를 위한 연구 제안서<mecab>를 작성<mecab>해야 한다<mecab>. 짧<mecab>은 문장<mecab>만 작성<mecab>하<mecab>고 전체 응답<mecab>에 쉼표<mecab>를 사용<mecab>하<mecab>지 마라<mecab>. [웹사이트]<mecab>와 같<mecab>은 대괄호<mecab>로 표시<mecab>된 자리 표시<mecab>자<mecab>를 최소한 다섯 개 포함<mecab>하<mecab>라<mecab>.
+미디어 게시물<mecab>이 있<mecab>습니다: "내 딸<mecab>이 오늘 대학<mecab>을 졸업<mecab>했<mecab>어요<mecab>! 그녀<mecab>가 자랑<mecab>스러워<mecab>요<mecab>!" 이걸 더 흥미<mecab>롭<mecab>게 만들<mecab>어 주실 수 있<mecab>나요<mecab>? 꼭 2개의 단락<mecab>으로 확장<mecab>해 주<mecab>세요<mecab>. 단락<mecab>은 마크다운 구분 기호<mecab>로 구분<mecab>해 주<mecab>세요: ***. 또한, 최소 3개의 섹션<mecab>을 *이탤릭체*<mecab>로 만들<mecab>어 주<mecab>세요<mecab>. 즉, *이탤릭 텍스트*<mecab>로 시작<mecab>하<mecab>고 끝내<mecab>주<mecab>세요<mecab>.
+탄산음료의 건강<mecab>한 대안인 신제품<mecab>에 대한 두 개의 광고<mecab>를 작성<mecab>하<mecab>세요<mecab>. 하나의 광고<mecab>는 10대 청소년<mecab>을 대상<mecab>으로 하<mecab>고, 다른 하나<mecab>는 직장인<mecab>을 대상<mecab>으로 해야 합니다<mecab>. 각 광고의 시작 부분<mecab>에 각각 청중 1과 청중 2<mecab>로 표시<mecab>하<mecab>세요<mecab>. 전체 응답<mecab>을 큰따옴표<mecab>로 감싸<mecab>야 합니다<mecab>.
+고객<mecab>이 항상 옳<mecab>다는 내용의 리머릭<mecab>을 작성<mecab>하<mecab>세요<mecab>. "옳다"라는 단어<mecab>는 응답<mecab>에 2회 미만<mecab>으로 나타나<mecab>야 합니다<mecab>.
+리머릭<mecab>을 제공<mecab>하<mecab>기 전<mecab>에, 위의 요청<mecab>을 변경 없이 처음<mecab>에 반복<mecab>하<mecab>세요<mecab>.
+집<mecab>이 아닌 집<mecab>에 대한 수수께끼<mecab>를 작성<mecab>하<mecab>세요<mecab>. 답<mecab>도 포함<mecab>하<mecab>세요<mecab>. 당신<mecab>의 응답<mecab>은 최소 400단어 이상<mecab>이<mecab>어야 하<mecab>며, 제목<mecab>은 <<수수께끼>><mecab>와 같이 이중 각괄호<mecab>로 감싸<mecab>야 합니다<mecab>.
+다음<mecab>이 사실인가요<mecab>? "사람<mecab>들<mecab>은 돈<mecab>을 사기 위해 시간<mecab>을 사용<mecab>합니다<mecab>." 아이<mecab>들<mecab>이 이해<mecab>하<mecab>기 쉽<mecab>게 답변<mecab>을 설명<mecab>하<mecab>세요<mecab>. "농부"라는 단어<mecab>를 포함<mecab>하<mecab>세요<mecab>. "경제", "수요" 및 "공급"<mecab>이<mecab>라는 단어<mecab>는 제외<mecab>하<mecab>세요<mecab>.
+
+먼저 위의 전체 요청<mecab>을 변경<mecab>하<mecab>지 않<mecab>고 단어 그대로 반복<mecab>한 다음, 답변<mecab>을 주<mecab>세요<mecab>. 요청<mecab>을 반복<mecab>하<mecab>기 전<mecab>에<mecab>는 아무 단어<mecab>도 말<mecab>하<mecab>지 마세요<mecab>.
+제니퍼<mecab>는 우유<mecab>를 사기 위해 가게<mecab>에 간다<mecab>. 그녀<mecab>는 주머니<mecab>에 15000원<mecab>이 있<mecab>고 우유<mecab>는 리터당 4500원<mecab>이<mecab>다<mecab>. 그녀<mecab>는 몇 리터의 우유<mecab>를 살 수 있<mecab>을까<mecab>? 당신<mecab>의 생각<mecab>을 설명<mecab>하<mecab>라<mecab>. '나누<mecab>기', '답'<mecab>이<mecab>라는 키워드<mecab>는 피하<mecab>라<mecab>. '나머지'라는 키워드<mecab>를 포함<mecab>하<mecab>라<mecab>.
+세상<mecab>에 왜 이렇<mecab>게 많<mecab>은 사기<mecab>가 있<mecab>는지 설명<mecab>해 주실 수 있<mecab>나요<mecab>? 마크다운<mecab>에서 *기울임 텍스트* 섹션<mecab>을 포함<mecab>해 주<mecab>세요<mecab>. 전체 응답<mecab>을 30단어 이하로 해 주<mecab>세요<mecab>.
+내 비디오 게임 프로젝트<mecab>를 위한 슬로건<mecab>을 써줄 수 있<mecab>나요<mecab>? 이 프로젝트<mecab>는 매우 재미있<mecab>는 격투 게임<mecab>을 만드<mecab>는 것<mecab>을 목표<mecab>로 합니다<mecab>. 전체 응답<mecab>을 큰따옴표<mecab>로 감싸<mecab>주<mecab>세요<mecab>. 또한, 답변의 적어도 세 부분<mecab>을 마크다운 형식<mecab>으로 *강조<mecab>된 텍스트*<mecab>로 강조<mecab>해 주<mecab>세요<mecab>. 예: *재미있<mecab>는 격투*.
+개 사육장<mecab>을 위한 신문 광고 템플릿<mecab>을 200단어 이하로 작성<mecab>하<mecab>세요<mecab>. 광고<mecab>에 불행히도라<mecab>는 단어<mecab>가 3회<mecab>에서 5회 등장<mecab>하<mecab>도록 하<mecab>세요<mecab>.
+수니파<mecab>와 시아파 무슬림의 차이<mecab>에 대한 에세이<mecab>를 작성<mecab>하<mecab>십시오<mecab>. 귀하<mecab>의 전체 응답<mecab>은 최소 1200단어 이상<mecab>이<mecab>어야 합니다<mecab>.
+온라인<mecab>으로 사람<mecab>들<mecab>을 위한 신탁<mecab>을 생성<mecab>하<mecab>는 서비스<mecab>를 제공<mecab>하<mecab>는 회사<mecab>에 대한 300단어 이상의 스타트업 피치<mecab>를 작성<mecab>해 주<mecab>세요<mecab>.
+빌<mecab>이<mecab>라는 이름<mecab>을 가진 사람<mecab>들<mecab>에 대한 25개의 리머릭<mecab>을 나열<mecab>하<mecab>는 HTML 페이지<mecab>를 작성<mecab>하<mecab>세요<mecab>. 페이지<mecab>에<mecab>는 '경제학자', '비용', '위르겐'<mecab>이<mecab>라는 키워드<mecab>가 포함<mecab>되<mecab>어야 합니다<mecab>.
+잡<mecab>을 수 있<mecab>지만 던질 수 없<mecab>는 것<mecab>과 던질 수 있<mecab>지만 잡<mecab>을 수 없<mecab>는 것<mecab>에 대한 수수께끼의 답<mecab>은 무엇인가요<mecab>? 전체 답변<mecab>은 20단어 미만<mecab>이<mecab>어야 하<mecab>며, 제목<mecab>은 이중 꺾쇠괄호<mecab>로 묶<mecab>여야 합니다, 즉 <<제목>>.
+다른 사람<mecab>에게 당신<mecab>의 전공<mecab>이 컴퓨터 과학임<mecab>을 어떻<mecab>게 말<mecab>할 수 있<mecab>을까요, 컴퓨터<mecab>나 과학<mecab>이<mecab>라는 단어<mecab>를 사용<mecab>하<mecab>지 않<mecab>고<mecab>? 당신<mecab>의 전체 응답<mecab>에<mecab>는 컴퓨터<mecab>와 과학<mecab>이<mecab>라는 단어<mecab>가 포함<mecab>되<mecab>지 않<mecab>아야 합니다<mecab>.
+일본의 역사<mecab>를 요약<mecab>하<mecab>세요<mecab>. 응답<mecab>에서 최소 5개의 키워드<mecab>를 이탤릭체<mecab>로 표시<mecab>하<mecab>세요<mecab>. 이탤릭체 단어<mecab>를 표시<mecab>하<mecab>려면, *이탤릭*<mecab>처럼 별표<mecab>로 감싸<mecab>세요<mecab>.
+이 작업<mecab>에서<mecab>는 요청<mecab>을 먼저 단어<mecab>별<mecab>로 반복<mecab>해야 하<mecab>며, 어떤 변경<mecab>도 없이, 그 다음 요청<mecab>에 답<mecab>해야 합니다<mecab>. 정확<mecab>한 요청<mecab>을 반복<mecab>하<mecab>기 전<mecab>에 아무 말<mecab>도 하<mecab>지 마십시오<mecab>.
+
+보드 게임 사회<mecab>에 중점<mecab>을 둔 새로운 소셜 네트워크<mecab>를 만들<mecab>고자 하<mecab>는 스타트업<mecab>을 위한 피치 덱<mecab>을 작성<mecab>하<mecab>십시오<mecab>.
+나<mecab>는 작<mecab>은 뒷마당<mecab>에 채소<mecab>와 꽃<mecab>을 위한 정원<mecab>을 시작<mecab>하<mecab>고 싶<mecab>어<mecab>. 내 식물<mecab>에 물 주<mecab>는 방법<mecab>에 대한 조언<mecab>을 줄 수 있<mecab>니<mecab>? 최소한 3개의 이탤릭 텍스트 섹션<mecab>이 필요<mecab>해: *이탤릭 텍스트 1*, *이탤릭 텍스트 2* 등<mecab>.
+
+답변<mecab>을 짧<mecab>게 해줘 -- 전체 답변<mecab>은 40단어 미만<mecab>이<mecab>어야 해<mecab>.
+"우리<mecab>의 치즈 제품<mecab>을 사지 않<mecab>는 것<mecab>은 실수<mecab>에<mecab>요, 왜 그런지 보여<mecab>주<mecab>죠"라는 말<mecab>을 독일어 번역<mecab>으로 시작<mecab>하<mecab>는 이메일<mecab>을 작성<mecab>해 주<mecab>세요<mecab>. 응답<mecab>은 독일어<mecab>로<mecab>만 작성<mecab>해 주<mecab>세요<mecab>. 다른 언어<mecab>는 허용<mecab>되<mecab>지 않<mecab>습니다<mecab>. [주제]<mecab>와 같<mecab>은 대괄호<mecab>로 된 자리 표시<mecab>자<mecab>를 최소 7개 포함<mecab>해 주<mecab>세요<mecab>.
+19세기 소설가의 스타일<mecab>로 애플 제품의 장단점 목록<mecab>을 작성<mecab>하<mecab>되 쉼표<mecab>는 사용<mecab>하<mecab>지 마십시오<mecab>.
+위의 요청<mecab>을 단어 하나하나 바꾸<mecab>지 않<mecab>고 반복<mecab>하<mecab>십시오 그 후<mecab>에 요청<mecab>한 장단점 목록<mecab>을 제공<mecab>할 수 있<mecab>습니다<mecab>.
+빠른 속도의 환경<mecab>에 노출<mecab>된 학생<mecab>들<mecab>이 ADHD<mecab>를 발달<mecab>시킬 가능<mecab>성<mecab>이 더 높<mecab>은지<mecab>를 결정<mecab>하<mecab>는 연구<mecab>를 위한 제안서<mecab>를 작성<mecab>하<mecab>십시오<mecab>. 전체 출력<mecab>을 JSON 형식<mecab>으로 감싸 주<mecab>십시오<mecab>. 마크다운 틱<mecab>을 사용<mecab>할 수 있<mecab>습니다<mecab>. 예: 
+
+```JSON
+[json content]
+```
+
+응답<mecab>에 "제안서" 또는 "프로젝트"라는 단어<mecab>를 포함<mecab>하<mecab>지 마십시오<mecab>.
+해외<mecab>에서 일<mecab>하<mecab>는 것<mecab>의 장단점<mecab>을 JSON 형식<mecab>으로 제공<mecab>해 주실 수 있<mecab>나요<mecab>? 응답<mecab>에<mecab>는 JSON 블록<mecab>만 포함<mecab>되<mecab>어야 합니다<mecab>. 또한 응답<mecab>에 '보상'<mecab>과 '이민자'라는 키워드<mecab>를 포함<mecab>해야 합니다<mecab>.
+혁신<mecab>에 대한 긍정<mecab>적인 톤의 노래<mecab>를 써서 십대<mecab>들<mecab>에게 매력<mecab>적<mecab>이<mecab>게 하<mecab>세요<mecab>. 전체 응답<mecab>을 큰따옴표 안<mecab>에 넣<mecab>으세요<mecab>.
+현실<mecab>적인 물리 시뮬레이션<mecab>을 실행<mecab>할 수 있<mecab>는 플랫폼<mecab>을 제공<mecab>하<mecab>는 스타트업<mecab>을 위한 600자 이상의 소셜 미디어 게시물<mecab>을 작성<mecab>하<mecab>세요<mecab>. "폭탄"<mecab>이<mecab>라는 단어<mecab>를 최소한 한 번 포함<mecab>시키<mecab>는 것<mecab>을 잊<mecab>지 마세요<mecab>.
+이 스타트업 피치<mecab>를 비판<mecab>하<mecab>세요: 스티븐슨<mecab>과 홍콩<mecab>은 사용<mecab>자<mecab>가 전 세계의 제품<mecab>을 사고팔 수 있<mecab>는 최초의 디지털 시장<mecab>이 될 것입니다<mecab>. 스티븐슨<mecab>과 홍콩<mecab>은 모든 쇼핑 요구<mecab>를 위한 원스톱 샵<mecab>이 될 것<mecab>이<mecab>며 우리<mecab>는 온라인 쇼핑<mecab>을 그 어느 때<mecab>보다 쉽<mecab>고 편리<mecab>하<mecab>게 만들<mecab>어 줄 다양<mecab>한 기능<mecab>을 제공<mecab>할 것입니다<mecab>. 응답<mecab>에 쉼표<mecab>를 사용<mecab>하<mecab>지 마세요<mecab>.
+사우스다코타<mecab>의 드 스메트 마을<mecab>에 사<mecab>는 퀘이커 존<mecab>에 대한 재미있<mecab>는 하이쿠<mecab>를 작성<mecab>하<mecab>세요<mecab>. *이것<mecab>은 강조<mecab>된 구문*<mecab>을 두 번 강조<mecab>하<mecab>기 위해 별표 기호, *<mecab>를 사용<mecab>하<mecab>세요<mecab>. 예: *이것<mecab>은 강조<mecab>된 구문*.
+나<mecab>는 미국<mecab>에서 최고의 변호사 10명의 목록<mecab>이 필요<mecab>하<mecab>다<mecab>. 당신<mecab>의 목록<mecab>은 아래 형식<mecab>에 따라 10개의 글머리 기호 형식<mecab>이<mecab>어야 한다:
+
+* 글머리 기호 1
+* 글머리 기호 2
+* ...
+반지의 제왕<mecab>에서 간달프<mecab>를 연기<mecab>한 배우의 이름<mecab>은 무엇인가요<mecab>? 위의 질문<mecab>을 단어<mecab>를 변경<mecab>하<mecab>지 않<mecab>고 먼저 반복<mecab>한 다음, 답변<mecab>을 제시<mecab>하<mecab>세요<mecab>.
+새로운 책 "홈스쿨링의 비밀: 공개<mecab>!"<mecab>에 대한 서평<mecab>을 작성<mecab>하<mecab>세요<mecab>. 리뷰<mecab>는 두 사람 간의 대화 형식<mecab>이<mecab>어야 합니다<mecab>. 응답<mecab>은 오직 우르두어로만 이루어져야 하<mecab>며, 전체 응답<mecab>에서 다른 언어<mecab>는 허용<mecab>되<mecab>지 않<mecab>습니다<mecab>.
+10대 청소년<mecab>을 겨냥<mecab>한 새로운 신발의 제품 설명<mecab>을 작성<mecab>하<mecab>세요<mecab>. 응답의 최소 2개 텍스트 섹션<mecab>을 *나<mecab>는 강조<mecab>되<mecab>었<mecab>습니다*<mecab>처럼 별표<mecab>로 감싸<mecab>서 강조<mecab>하<mecab>세요<mecab>. 응답<mecab>은 최소 350단어 이상<mecab>이<mecab>어야 합니다<mecab>.
+해리라는 이름의 남자<mecab>와 애완견<mecab>에 대한 짧<mecab>고 재미있<mecab>는 이야기<mecab>를 써<mecab>주<mecab>세요<mecab>. 당신<mecab>의 응답<mecab>은 3개의 섹션<mecab>을 포함<mecab>해야 하<mecab>며, 각 섹션의 시작<mecab>은 "섹션 X"<mecab>로 표시<mecab>해야 합니다<mecab>.
+장미의 아름다움<mecab>에 대한 아주 짧<mecab>은 시<mecab>를 써라<mecab>. 아름다움<mecab>과 예쁜<mecab>이<mecab>라는 키워드<mecab>는 포함<mecab>하<mecab>지 마라<mecab>.
+꿈, 주먹 싸움, 그리고 초능력<mecab>이 포함<mecab>된 영화 줄거리<mecab>를 작성<mecab>할 수 있<mecab>나요<mecab>? 제목<mecab>은 이중 각괄호<mecab>로 포함<mecab>하<mecab>세요, 즉 <<제목>><mecab>처럼<mecab>요<mecab>.
+카밀라<mecab>에 대한 수수께끼<mecab>를 작성<mecab>하<mecab>되 쉼표<mecab>를 사용<mecab>하<mecab>지 마세요<mecab>.
+최신 Google Pixel 전화의 출시<mecab>를 설명<mecab>하<mecab>는 XML 문서<mecab>를 작성<mecab>하<mecab>십시오<mecab>. 문서<mecab>에<mecab>는 [가격]<mecab>와 같<mecab>은 최소 세 개의 자리 표시<mecab>자<mecab>가 포함<mecab>되<mecab>어야 하<mecab>며 응답<mecab>에 쉼표<mecab>를 사용<mecab>해서<mecab>는 안 됩니다<mecab>.
+스프레드시트<mecab>에 대한 짧<mecab>은 수수께끼<mecab>를 작성<mecab>하<mecab>세요<mecab>. 당신<mecab>의 전체 응답<mecab>을 큰따옴표<mecab>로 감싸<mecab>고, 응답의 단어<mecab>가 태국어<mecab>로 되<mecab>어 있<mecab>는지 확인<mecab>하<mecab>세요<mecab>. 다른 언어<mecab>는 허용<mecab>되<mecab>지 않<mecab>습니다<mecab>.
+오늘, 제54회 연례 그래미 어워드<mecab>에서, 레코딩 아카데미<mecab>는 지난 한 해의 최고의 음반<mecab>을 만든 아티스트, 음악가, 프로듀서<mecab>들<mecab>의 재능<mecab>과 창의<mecab>성<mecab>을 기립니다<mecab>. 이 텍스트<mecab>를 공식<mecab>적인 어조<mecab>로 계속 작성<mecab>해 주<mecab>시<mecab>고, 주석<mecab>을 사용<mecab>해 주<mecab>세요<mecab>. 응답의 일부 핵심 부분<mecab>을 *강조<mecab>된 텍스트*<mecab>와 같이 *표시*해 주<mecab>세요<mecab>.
+땅콩버터<mecab>와 젤리 샌드위치<mecab>를 만드<mecab>는 방법<mecab>에 대한 노래<mecab>를 써라<mecab>. 응답<mecab>에 쉼표<mecab>를 사용<mecab>하<mecab>지 마라<mecab>.
+네덜란드어<mecab>에 대한 흥미<mecab>로운 사실<mecab>에 대한 블로그 포스트<mecab>를 작성<mecab>하<mecab>세요<mecab>. 답변의 최소 2개 섹션<mecab>을 마크다운<mecab>으로 기울임<mecab>꼴<mecab>로 작성<mecab>하<mecab>세요, 즉 *기울임꼴 텍스트*.
+네팔어<mecab>만 사용<mecab>하<mecab>여 비라트<mecab>나르<mecab>에 대한 10일 여행 일정<mecab>을 작성<mecab>하<mecab>십시오<mecab>.
+말<mecab>하<mecab>지 않<mecab>는 아라브라<mecab>는 남자<mecab>에 대한 재미있<mecab>는 수수께끼<mecab>를 힌디어<mecab>로 작성<mecab>하<mecab>세요<mecab>. 당신<mecab>의 전체 응답<mecab>은 힌디어<mecab>로 작성<mecab>되<mecab>어야 합니다<mecab>. 또한 전체 응답<mecab>에서 쉼표<mecab>를 사용<mecab>할 수 없<mecab>습니다<mecab>.
+다음 회사<mecab>들<mecab>의 로비 지출 요약<mecab>을 제공<mecab>해 주<mecab>세요: Google, Facebook, Microsoft, Apple, 그리고 Amazon<mecab>. 귀하<mecab>의 응답<mecab>은 독일어<mecab>로 되<mecab>어야 하<mecab>며, 다른 언어<mecab>는 허용<mecab>되<mecab>지 않<mecab>습니다<mecab>.
+새로운 데이팅 앱<mecab>을 위한 다음 광고 문구<mecab>를 비판<mecab>하<mecab>고, 반드시 이중 각괄호<mecab>로 감싼 제목<mecab>을 포함<mecab>하<mecab>세요, 예<mecab>를 들<mecab>어 <<제목>> 처럼<mecab>요: "당신<mecab>의 새로운 짝<mecab>을 만나<mecab>세요<mecab>! Cohen<mecab>은 당신<mecab>의 관심사<mecab>와 위치<mecab>에 따라 다른 사람<mecab>들<mecab>과 매칭해<mecab>주<mecab>는 무료 앱입니다<mecab>. Cohen<mecab>과 함께라면 사랑, 우정, 또는 그냥 함께 놀 사람<mecab>을 찾<mecab>을 수 있<mecab>습니다<mecab>. 오늘 Cohen<mecab>을 다운로드<mecab>하<mecab>고 새로운 사람<mecab>들<mecab>을 만나<mecab>기 시작<mecab>하<mecab>세요<mecab>!"
+낯선 사람<mecab>에게 쫓기<mecab>는 16세 소녀의 시각<mecab>에서 본 블로그 포스트<mecab>. 당신<mecab>의 응답<mecab>은 10문장 이하로 작성<mecab>되<mecab>어야 하<mecab>며 쉼표<mecab>는 없<mecab>어야 합니다<mecab>.
+"랩소디"라는 이름의 향수<mecab>를 위한 광고<mecab>를 작성<mecab>하<mecab>세요<mecab>. 상큼<mecab>한 감귤 향이 나<mecab>는 향수입니다<mecab>. 전체 응답<mecab>을 큰따옴표<mecab>로 감싸<mecab>세요<mecab>. 광고<mecab>에 향수, 상큼<mecab>한, 또는 좋<mecab>은<mecab>이<mecab>라는 단어<mecab>를 포함<mecab>하<mecab>지 마세요<mecab>.
+"열쇠"<mecab>를 설명<mecab>하<mecab>는 수수께끼<mecab>를 작성<mecab>하<mecab>되, "열쇠"라는 단어<mecab>는 사용<mecab>하<mecab>지 마세요<mecab>. 모든 단어<mecab>를 하나의 JSON 블록<mecab>으로 감싸<mecab>세요<mecab>. "열쇠"라는 단어<mecab>는 전체 답변<mecab>에 나타나<mecab>지 않<mecab>아야 합니다<mecab>.
+전문가<mecab>들<mecab>에게 아기<mecab>들<mecab>이 밤새 잘 자<mecab>는 방법<mecab>을 알려<mecab>주<mecab>는 랩<mecab>이 필요<mecab>해<mecab>. 너<mecab>의 대답<mecab>은 <<제목>><mecab>과 같<mecab>은 이중 각괄호<mecab>로 감싸인 제목<mecab>을 포함<mecab>해야 해<mecab>. 또한, 최소 2개의 섹션<mecab>을 마크다운<mecab>으로 강조<mecab>해야 해, 즉 *강조<mecab>된 섹션*. 마지막<mecab>으로, 너<mecab>의 응답 끝<mecab>에 P.P.S<mecab>로 시작<mecab>하<mecab>는 후기<mecab>를 명시<mecab>적<mecab>으로 추가<mecab>해 줘<mecab>.
+뉴욕 로체스터<mecab>에서 할 수 있<mecab>는 최고의 것<mecab>들<mecab>은 무엇인가요<mecab>? 이<mecab>에 대해서 노래<mecab>로 써<mecab>주<mecab>고, 당신<mecab>의 응답<mecab>에 음악 기호<mecab>를 사용<mecab>해 주실 수 있<mecab>나요<mecab>? '축제'<mecab>와 '강'<mecab>이<mecab>라는 키워드<mecab>를 포함<mecab>하<mecab>는 것<mecab>을 잊<mecab>지 마세요<mecab>.
+사람<mecab>들<mecab>에게 질투<mecab>를 일으키<mecab>는 초록 눈의 괴물의 이름<mecab>은 무엇인가요<mecab>? 당신<mecab>의 대답<mecab>은 3문장 이하(단 1문장 또는 2문장)여야 합니다<mecab>.
+저<mecab>는 [date]<mecab>와 같<mecab>은 대괄호<mecab>로 표시<mecab>된 최소 3개의 자리 표시<mecab>자<mecab>가 포함<mecab>된 조<mecab>에와 거품<mecab>에 관한 농담<mecab>이 필요<mecab>합니다<mecab>.
+2022 구글 IO 발표<mecab>에 대한 TLDR<mecab>를 주<mecab>세요<mecab>. 그러나 응답<mecab>은 전적<mecab>으로 벵골어<mecab>로 되<mecab>어야 하<mecab>며, 다른 언어<mecab>는 허용<mecab>되<mecab>지 않<mecab>으며, [পণ্য]<mecab>와 같<mecab>은 자리 표시<mecab>자<mecab>가 하나 이상 있<mecab>어야 합니다<mecab>.
+아래의 하이쿠<mecab>를 두 가지 버전<mecab>으로 다시 작성<mecab>하<mecab>세요<mecab>. 두 버전 모두 재미있<mecab>어야 합니다<mecab>. 두 버전<mecab>은 여섯 개의 별표 기호(******)<mecab>로 구분<mecab>하<mecab>세요<mecab>. 응답<mecab>에 키워드 ['개', '하루']<mecab>를 포함<mecab>하<mecab>세요<mecab>.
+
+쌀쌀<mecab>한 겨울 밤<mecab>에
+고양이<mecab>가 달<mecab>에게 야옹
+따뜻<mecab>함<mecab>을 바라<mecab>며
+로저 페더러<mecab>가 라파엘 나달<mecab>보다 더 나<mecab>은 테니스 선수인가요<mecab>? 다음 문구 중 하나<mecab>로 정확히 대답<mecab>하<mecab>세요: "제 답변<mecab>은 예입니다<mecab>." 또는 "제 답변<mecab>은 아니요입니다<mecab>." 또는 "제 답변<mecab>은 아마도입니다<mecab>."
+달 착륙<mecab>은 정부<mecab>가 만들<mecab>어낸 선전인가<mecab>? 당신<mecab>의 대답<mecab>은 다음의 정확<mecab>한 문구 중 하나<mecab>를 포함<mecab>해야 합니다: "제 답변<mecab>은 예입니다<mecab>." 또는 "제 답변<mecab>은 아니요입니다<mecab>." 또는 "제 답변<mecab>은 아마도입니다<mecab>."
+우주<mecab>에서 처음<mecab>으로 불려진 노래<mecab>가 Happy Birthday라는 것<mecab>이 사실인가요<mecab>?  
+
+당신<mecab>의 대답<mecab>은 다음 중 하나<mecab>를 포함<mecab>해야 합니다:  
+제 답변<mecab>은 예입니다<mecab>.  
+제 답변<mecab>은 아니요입니다<mecab>.  
+제 답변<mecab>은 아마도입니다<mecab>.
+a + b = 10<mecab>이<mecab>고, a > b일 때, a = 6인가<mecab>? 당신<mecab>의 대답<mecab>은 다음 중 하나의 정확<mecab>한 구문<mecab>을 포함<mecab>해야 합니다: "제 답변<mecab>은 예입니다<mecab>." 또는 "제 답변<mecab>은 아니요입니다<mecab>." 또는 "제 답변<mecab>은 아마도입니다<mecab>."
+a + b + c = 30<mecab>이<mecab>고 b = 10<mecab>이<mecab>고 c = 5일 때, a = 20인가<mecab>? "제 답변<mecab>은 예입니다<mecab>." 또는 "제 답변<mecab>은 아니요입니다<mecab>." 또는 "제 답변<mecab>은 아마도입니다<mecab>." 중 하나<mecab>로 대답<mecab>하<mecab>세요<mecab>.
+밥<mecab>이 마사<mecab>에게 당구 게임<mecab>에서 이겼<mecab>다면<mecab>. 그리고 마사<mecab>가 조<mecab>에게 당구 게임<mecab>에서 이겼<mecab>다면<mecab>. 밥<mecab>이 조<mecab>에게 당구 게임<mecab>에서 이길 수 있<mecab>을까<mecab>?
+
+당신<mecab>의 대답<mecab>은 다음 중 하나<mecab>를 포함<mecab>해야 합니다:  
+제 답변<mecab>은 예입니다<mecab>.  
+제 답변<mecab>은 아니요입니다<mecab>.  
+제 답변<mecab>은 아마도입니다<mecab>.
+배트맨<mecab>이 슈퍼맨<mecab>과 공정<mecab>한 일대일 싸움<mecab>에서 이길 수 있<mecab>을까요<mecab>?
+그냥 "제 답변<mecab>은 예입니다<mecab>." 또는 "제 답변<mecab>은 아니요입니다<mecab>." 또는 "제 답변<mecab>은 아마도입니다<mecab>." 중 하나<mecab>로 대답<mecab>하<mecab>세요<mecab>.
+피카츄<mecab>는 어벤져스 중 하나인가요<mecab>? 생각<mecab>을 말<mecab>한 다음, 다음 옵션 중 하나<mecab>로 대답<mecab>하<mecab>세요: "제 답변<mecab>은 예입니다<mecab>." 또는 "제 답변<mecab>은 아니요입니다<mecab>." 또는 "제 답변<mecab>은 아마도입니다<mecab>."
+당신<mecab>은 자신<mecab>이 똑똑<mecab>하<mecab>다고 생각<mecab>하<mecab>나요<mecab>? 다음 중<mecab>에서 선택<mecab>하<mecab>세요:
+제 답변<mecab>은 예입니다<mecab>.
+제 답변<mecab>은 아니요입니다<mecab>.
+제 답변<mecab>은 아마도입니다<mecab>.
+위의 문구 중 하나<mecab>만 선택<mecab>하<mecab>여 대답<mecab>하<mecab>세요<mecab>.

@@ -32,8 +32,7 @@ fn main() -> Result<()> {
     // 1) BPE 모델 생성
     let bpe = BPE::builder().unk_token("<unk>".into()).build()?;
 
-    // 2) Wrapper 기반 Tokenizer 생성 (Builder 말고 이 방식이 타입 지옥을 피합니다)
-    //    Tokenizer는 ModelWrapper 기반 파이프라인입니다. :contentReference[oaicite:2]{index=2}
+    // 2) Tokenizer 생성
     let mut tokenizer = Tokenizer::new(ModelWrapper::BPE(bpe));
 
     // 3) PreTokenizer:
